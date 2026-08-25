@@ -72,6 +72,21 @@ that person receives goes in a second slot, or in a `that`-clause.
 - ✗ He informed the deadline.
 - ✓ He informed me of the deadline.
 
+## Tense
+
+### The present perfect means it is still true
+
+`has been` describes a state that reaches the present moment. For a state that
+has already ended, use the simple past — or the past perfect if you are placing
+it before some other past point.
+
+- ✗ The server has been down. I restarted it a minute ago.
+- ✓ The server was down. I restarted it a minute ago. — it is up now
+- ✓ The server has been down since this morning. — it is still down
+
+`had been` is for a state that ended before another past event: *the server had
+been down for an hour before anyone noticed*.
+
 ## Word order and modifiers
 
 ### A superlative goes in front of the whole noun phrase
