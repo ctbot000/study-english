@@ -11,6 +11,10 @@ rereading.
 Everything lives in [`lessons.md`](lessons.md) — one entry per rule, grouped by
 kind, each with an invented example. It is deliberately the only log here.
 
+The material comes from every prompt I write to Claude Code, across all my
+projects, not only the practice done in this repository. Ordinary work is where
+the mistakes actually happen.
+
 ## What is not kept
 
 No prompts, no transcripts, no per-session files. A lesson is added only when the

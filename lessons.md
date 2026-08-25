@@ -3,6 +3,145 @@
 What I have learned about my English, grouped by kind. Each entry is a rule with
 a made-up example — short enough to reread in full.
 
+## Articles
+
+### A singular countable noun needs an article
+
+Korean has no articles, so they are the easiest thing to drop. Almost every
+singular countable noun needs `a`, `an`, `the`, or a possessive in front of it.
+
+- ✗ Send me report before meeting.
+- ✓ Send me the report before the meeting.
+
+Use `the` when the listener can identify which one — because it is the only one,
+or was already mentioned, or is fixed by the context. Use `a`/`an` when it is one
+of several and it does not matter which.
+
+- ✗ Redis is default cache.
+- ✓ Redis is the default cache. — the only default there is
+- ✗ Pick different font.
+- ✓ Pick a different font. — any one will do
+
+Plurals and uncountable nouns are the exception: *Send me the reports* or
+*Send me reports* are both fine.
+
+## Verb forms
+
+### Third person singular takes `-s`
+
+The `-s` goes on the verb when the subject is `he`, `she`, `it`, or any single
+thing — even when a long phrase separates them.
+
+- ✗ The script run every hour, and the cache expire after a day.
+- ✓ The script runs every hour, and the cache expires after a day.
+- ✗ The list of failed jobs get longer every day.
+- ✓ The list of failed jobs gets longer every day. — the subject is *list*, not *jobs*
+
+### Intransitive verbs have no passive
+
+Some verbs describe something the subject simply does, with nothing done to it.
+They cannot take `be` + past participle, however natural the passive feels.
+
+- ✗ The coupon has been expired.
+- ✓ The coupon has expired.
+- ✗ An error was occurred during the upload.
+- ✓ An error occurred during the upload.
+
+The common ones: `expire`, `occur`, `happen`, `arrive`, `appear`, `disappear`,
+`remain`, `rise`, `result`, `consist`.
+
+### Noun and verb forms are different words
+
+English often changes the spelling between the noun and the verb, and using the
+noun where a verb belongs is a grammar error, not a typo.
+
+- ✗ Please response by Friday.
+- ✓ Please respond by Friday. — the noun is *a response*
+
+The pairs worth memorizing: advice / advise, belief / believe, choice / choose,
+loss / lose, proof / prove, success / succeed, breath / breathe.
+
+### Some verbs take a person as their object, not a thing
+
+`guide`, `tell`, `inform`, `advise`, `remind`, and `teach` act on a person. What
+that person receives goes in a second slot, or in a `that`-clause.
+
+- ✗ I followed all you guided.
+- ✓ I followed all your guidance.
+- ✓ I did everything you told me to.
+- ✗ He informed the deadline.
+- ✓ He informed me of the deadline.
+
+## Word order and modifiers
+
+### A superlative goes in front of the whole noun phrase
+
+`latest`, `newest`, `best` modify the head noun, so they come before the other
+words that describe it — not immediately before the head.
+
+- ✗ Install the Python latest version.
+- ✓ Install the latest Python version.
+- ✓ Install the latest version of Python. — clearest when the modifiers pile up
+
+### Hyphenate a compound modifier before a noun
+
+Two or more words acting as one adjective are joined with a hyphen when they sit
+in front of the noun, so the reader knows they belong together.
+
+- ✗ a logged in session, a two hour delay, a well known author
+- ✓ a logged-in session, a two-hour delay, a well-known author
+
+After the noun the hyphen disappears, because there is nothing to disambiguate:
+*the session is logged in*, *the author is well known*.
+
+## Prepositions
+
+### Things are `on` a screen, not `in` it
+
+Use `on` for a surface or a device: *on the screen*, *on a phone*, *on a laptop*,
+*on a touch screen*, *on a server*. Use `in` for something enclosing: *in a
+browser*, *in an app*, *in the terminal*.
+
+- ✗ Make it work in a touch screen.
+- ✓ Make it work on a touch screen.
+
+### Do not chain the same preposition
+
+Repeating `from` (or `of`, or `in`) down a chain makes each one look like it
+attaches to the same thing. Use `in` for the containing relationship and keep
+`from` for the actual source.
+
+- ✗ Remove the logs from every server from every region.
+- ✓ Remove the logs from every server in every region.
+- ✗ Read every note from every folder from every account.
+- ✓ Read every note in every folder in every account.
+
+## Sentence patterns
+
+### `Why not` takes a bare verb, not `-ing`
+
+`Why not …?` is a suggestion and is followed by the plain form of the verb.
+
+- ✗ Why not using a cache?
+- ✓ Why not use a cache?
+
+To ask for the reason behind something that already happened or is happening,
+use a full question instead — the two mean different things:
+
+- ✓ Why aren't you using a cache? — you are not, and I want to know why
+- ✓ Why didn't you use a cache? — you did not, and I want to know why
+
+### Negative purpose is not `not to`
+
+To say *in order that something does not happen*, `not to` alone does not work.
+
+- ✗ Save the file not to lose the changes.
+- ✓ Save the file so you don't lose the changes.
+- ✓ Save the file so as not to lose the changes. — more formal
+
+Bare `not to` is correct only as the object of verbs like `tell`, `ask`, or
+`decide`: *I told him not to wait*.
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
