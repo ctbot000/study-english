@@ -3,34 +3,28 @@
 This repository is for English practice. The deliverable is prose, not code — do
 not scaffold projects, add build tooling, or set up tests here unless asked.
 
-## Logging corrections
+## Logging lessons
 
-Every correction made in a session must be logged. Do this as part of the reply
-that contains the correction, not at the end of the session — a session can be
-interrupted, and an unlogged correction is a lost one.
+`lessons.md` holds what has been learned about my English, and nothing else.
 
-1. **Append to `sessions/YYYY-MM-DD.md`** (Korean calendar day). Create the file
-   with an `# YYYY-MM-DD` heading if it does not exist. One entry per correction:
+**Never log prompts, messages, or session narrative.** This repository is public.
+A transcript of raw prompts is both an exposure and worse material to reread than
+a rule is. Do not create per-session or per-date files.
 
-   ```markdown
-   ## <short label for the mistake>
+**Add a lesson only when it is new.** Read `lessons.md` first. If the rule behind
+a correction is already there, change nothing and say so in the reply — a repeat
+of a known mistake is not a new lesson. When a new case shows an existing entry
+was too narrow, sharpen that entry rather than adding a second one.
 
-   - **Wrote:** <the original text, verbatim>
-   - **Better:** <the corrected version>
-   - **Why:** <the rule, in one or two sentences>
-   ```
+**Write the rule, not the incident.** "Uncountable nouns take no plural" is a
+lesson. "Got `practices` wrong on Tuesday" is not. No dates, no "today I wrote".
 
-   Quote the original verbatim. A cleaned-up version of the mistake is useless
-   for spotting a pattern later.
+**Invent the examples.** When an entry needs an example sentence, write a fresh
+one that isolates the rule. Never quote my messages, corrected or otherwise — a
+made-up example is clearer anyway, because it can be built to show one thing.
 
-2. **Promote to `patterns.md` on the second occurrence.** Grep the `sessions/`
-   files before writing. If the same underlying rule has already been logged on
-   another day, add it to `patterns.md` under the right heading, with both dates
-   cited. Do not promote on the first occurrence — `patterns.md` is only useful
-   while it is short.
-
-3. **Log the rule, not the sentence.** "Article missing before a singular count
-   noun" is a pattern; "forgot 'the' in that one email" is not.
+**Log in the same reply as the correction**, not at session end. A session can be
+interrupted, and an unlogged lesson is a lost one.
 
 ## What does not go here
 

@@ -1,20 +1,19 @@
 # study-english
 
-A workspace for practicing English, and a log of what I get wrong.
+A workspace for practicing English, and a record of what I learn from it.
 
 The point is not the practice itself but the record: the same mistakes repeat,
-and they only become visible once they are written down in one place.
+and they only stop once the rule behind them is written down somewhere worth
+rereading.
 
 ## Layout
 
-| Path | What goes in it |
-| --- | --- |
-| [`patterns.md`](patterns.md) | Recurring mistakes, grouped by kind. The file to reread. |
-| [`sessions/`](sessions/) | One file per session, `YYYY-MM-DD.md` (KST). Raw corrections as they came up. |
+Everything lives in [`lessons.md`](lessons.md) — one entry per rule, grouped by
+kind, each with an invented example. It is deliberately the only log here.
 
-## How it works
+## What is not kept
 
-Each session, corrections are appended to that day's file in `sessions/`. When a
-mistake shows up for the second time, it graduates to `patterns.md` — so
-`patterns.md` stays short and is worth rereading, while `sessions/` keeps the
-full history.
+No prompts, no transcripts, no per-session files. A lesson is added only when the
+rule is new, and example sentences are made up rather than lifted from whatever
+was being written at the time. The file stays short enough to read end to end,
+which is the only property that makes it useful.
