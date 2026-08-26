@@ -87,6 +87,16 @@ it before some other past point.
 `had been` is for a state that ended before another past event: *the server had
 been down for an hour before anyone noticed*.
 
+For the same reason the present perfect refuses a definite past time. `yesterday`,
+`at three`, `last week`, and the question word `when` all point at a finished
+moment, so the verb must be simple past.
+
+- ✗ When has the policy changed?
+- ✓ When did the policy change?
+- ✗ The build has failed yesterday.
+- ✓ The build failed yesterday.
+- ✓ The build has failed three times this week. — the week is not over
+
 ### `used to` says the habit has stopped
 
 `used to` marks a past habit that is over. Using it for something still true, or
