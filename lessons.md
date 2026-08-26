@@ -122,6 +122,18 @@ in front of the noun, so the reader knows they belong together.
 After the noun the hyphen disappears, because there is nothing to disambiguate:
 *the session is logged in*, *the author is well known*.
 
+### `again` already contains "this time"
+
+`again` means the thing has happened one more time, so pairing it with `this
+time` says the same thing twice. Drop one of them.
+
+- ✗ Why did the build fail this time again?
+- ✓ Why did the build fail again?
+
+`this time too` is a different statement — it groups this case with others rather
+than counting a repeat — and is worth using only when that grouping is the point:
+*the first two builds failed, and this one failed too*.
+
 ## Prepositions
 
 ### Things are `on` a screen, not `in` it
