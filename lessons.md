@@ -87,6 +87,19 @@ it before some other past point.
 `had been` is for a state that ended before another past event: *the server had
 been down for an hour before anyone noticed*.
 
+### `used to` says the habit has stopped
+
+`used to` marks a past habit that is over. Using it for something still true, or
+for a single recent inconsistency, says the opposite of what is meant.
+
+- ✗ He used to review my pull requests. — implies he no longer does
+- ✓ He always reviews my pull requests. — the habit continues
+- ✓ He used to review my pull requests, but now someone else does.
+
+For a habit that is still in force, use the simple present with `always`,
+`usually`, or `normally`. To point at one departure from it, name the departure:
+*you normally do X — why not this time?*
+
 ## Word order and modifiers
 
 ### A superlative goes in front of the whole noun phrase
