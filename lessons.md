@@ -144,6 +144,19 @@ time` says the same thing twice. Drop one of them.
 than counting a repeat — and is worth using only when that grouping is the point:
 *the first two builds failed, and this one failed too*.
 
+### Keep an adverb next to the verb it modifies
+
+An adverb pushed to the end of the sentence, past a phrase it has nothing to do
+with, attaches itself to whatever it now sits beside. Put it before the trailing
+phrase instead.
+
+- ✗ Can the service restart after a crash automatically?
+- ✓ Can the service restart automatically after a crash?
+
+The first reads as though the crash is the automatic part. English binds a modifier
+to the nearest candidate, so distance from the verb changes the meaning rather than
+merely sounding odd.
+
 ## Prepositions
 
 ### Things are `on` a screen, not `in` it
