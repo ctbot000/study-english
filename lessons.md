@@ -179,6 +179,20 @@ attaches to the same thing. Use `in` for the containing relationship and keep
 - ✗ Read every note from every folder from every account.
 - ✓ Read every note in every folder in every account.
 
+### `by` names the doer only in the passive
+
+In an active clause the subject is already the doer, so a trailing `by X` has
+nothing left to mark and gets read as "by means of X". When X is the party
+giving the order, say so with `at the direction of`, `as instructed by`, or
+`under`, or turn the clause passive.
+
+- ✗ The agent deletes old files by the scheduler.
+- ✓ Old files are deleted by the scheduler. — passive, so `by` marks the doer
+- ✓ The agent deletes old files as instructed by the scheduler. — active, so name the relation
+
+The same applies to a relative clause: *sites that it blocks by the server* has
+to become *sites it blocks on the server's orders*.
+
 ## Sentence patterns
 
 ### `Why not` takes a bare verb, not `-ing`
