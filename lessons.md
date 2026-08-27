@@ -193,6 +193,19 @@ giving the order, say so with `at the direction of`, `as instructed by`, or
 The same applies to a relative clause: *sites that it blocks by the server* has
 to become *sites it blocks on the server's orders*.
 
+### An occasion takes `on` or `in`, not `with`
+
+`with` names an instrument or a companion. A run, an attempt, a build, or a
+release is an occasion — *when* something happened, not what it happened by means
+of — so it takes `on` or `in`.
+
+- ✗ The retry didn't help with the second attempt.
+- ✓ The retry didn't help on the second attempt.
+- ✗ Caching was still off with last night's build.
+- ✓ Caching was still off in last night's build.
+
+`with` returns as soon as the noun really is the means: *fix it with a retry*.
+
 ## Sentence patterns
 
 ### `Why not` takes a bare verb, not `-ing`
