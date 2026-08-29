@@ -206,6 +206,19 @@ of — so it takes `on` or `in`.
 
 `with` returns as soon as the noun really is the means: *fix it with a retry*.
 
+### A platform hosts the work `on`, not `as`
+
+`as` gives a thing a role or a form — *publish it as a PDF*, *ship it as a
+plugin*. The service it is hosted on is a place, not a form, so it takes `on`,
+or `to` for the act of sending it there.
+
+- ✗ Deploy the docs as Netlify.
+- ✓ Deploy the docs to Netlify.
+- ✓ Host the docs on Netlify.
+
+Keep `as` for the shape the work takes: *release it as a single-page site*
+describes what it is, *release it on Netlify* names where it lives.
+
 ## Sentence patterns
 
 ### `Why not` takes a bare verb, not `-ing`
@@ -231,6 +244,20 @@ To say *in order that something does not happen*, `not to` alone does not work.
 
 Bare `not to` is correct only as the object of verbs like `tell`, `ask`, or
 `decide`: *I told him not to wait*.
+
+### A shortened `after`/`once` clause borrows the main clause's subject
+
+`after`, `once`, `when`, and `while` can drop the subject and the `be` in front
+of a past participle — but only when the missing subject is the same one the main
+clause already has. Otherwise the sentence quietly attaches the participle to the
+wrong thing, and in an imperative that wrong thing is *you*.
+
+- ✗ After finished, send me the summary. — reads as "after you are finished"
+- ✓ Once it's finished, send me the summary.
+- ✓ After finishing it, send me the summary.
+
+The short form is fine when the subjects genuinely match: *once merged, the branch
+can be deleted* works, because the branch is the thing merged.
 
 ## Countable and uncountable nouns
 
