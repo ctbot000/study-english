@@ -234,6 +234,20 @@ use a full question instead — the two mean different things:
 - ✓ Why aren't you using a cache? — you are not, and I want to know why
 - ✓ Why didn't you use a cache? — you did not, and I want to know why
 
+### A passive needs a subject the verb can actually act on
+
+Turning a sentence passive moves the object into the subject slot. Put a noun
+there that the verb does not act on and the sentence describes something that
+never happens — usually because a different verb is the one that takes that noun.
+
+- ✗ The next chapter shouldn't be advanced until the quiz is passed.
+- ✓ The next chapter shouldn't open until the quiz is passed. — the chapter opens
+- ✓ You shouldn't move on to the next chapter until you pass the quiz. — you advance
+
+`advance` carries a person through the stages; a stage itself `opens` or
+`unlocks`. When a passive feels forced, the fix is usually a different verb
+rather than a different arrangement of the same one.
+
 ### Negative purpose is not `not to`
 
 To say *in order that something does not happen*, `not to` alone does not work.
@@ -245,16 +259,22 @@ To say *in order that something does not happen*, `not to` alone does not work.
 Bare `not to` is correct only as the object of verbs like `tell`, `ask`, or
 `decide`: *I told him not to wait*.
 
-### A shortened `after`/`once` clause borrows the main clause's subject
+### A shortened time clause borrows the main clause's subject
 
-`after`, `once`, `when`, and `while` can drop the subject and the `be` in front
-of a past participle — but only when the missing subject is the same one the main
-clause already has. Otherwise the sentence quietly attaches the participle to the
-wrong thing, and in an imperative that wrong thing is *you*.
+`after`, `once`, `until`, `before`, `when`, and `while` can drop the subject in
+front of a participle — but the missing subject is then whatever the main clause
+already has. If that is not what was meant, the sentence quietly attaches the
+participle to the wrong thing, and in an imperative that wrong thing is *you*.
 
 - ✗ After finished, send me the summary. — reads as "after you are finished"
 - ✓ Once it's finished, send me the summary.
 - ✓ After finishing it, send me the summary.
+
+An `-ing` participle behaves the same way, and mismatches there are easier to
+miss because the phrase sounds complete on its own:
+
+- ✗ The door stays shut until being unlocked. — nothing names what is unlocked
+- ✓ The door stays shut until it is unlocked.
 
 The short form is fine when the subjects genuinely match: *once merged, the branch
 can be deleted* works, because the branch is the thing merged.
