@@ -293,3 +293,19 @@ A plural `practices` does exist, but it is effectively a different word meaning
 "customary ways of doing things": *safety practices*, *hiring practices*,
 *best practices*. Quantify the uncountable sense with a measure word instead —
 *two hours of practice*, *a lot of practice*.
+
+## Word choice
+
+### An `-ally` adverb says "with respect to X", not "in an X way"
+
+Adverbs built from a noun of quality — `structurally`, `categorically`,
+`logically` — name the dimension a claim is limited to. They do not describe the
+manner the action should take, so they cannot ask for the quality itself.
+
+- ✗ Please summarize the meeting structurally.
+- ✓ Please summarize the meeting in a structured way.
+- ✓ Please give the summary a clear structure.
+
+The adverb is right when the point really is to restrict a claim to one
+dimension: *the bridge is structurally sound* means sound as far as its structure
+goes, and leaves everything else open.
