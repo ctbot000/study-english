@@ -219,6 +219,21 @@ or `to` for the act of sending it there.
 Keep `as` for the shape the work takes: *release it as a single-page site*
 describes what it is, *release it on Netlify* names where it lives.
 
+### A relative clause keeps the verb's preposition
+
+When the object of a preposition becomes the head of a relative clause, the
+preposition does not disappear with it — it stays behind at the end of the
+clause. `work on a branch` still needs its `on` in *the branch you worked on*.
+
+- ✗ Show me the branch you were working.
+- ✓ Show me the branch you were working on.
+- ✗ The library he depends is unmaintained.
+- ✓ The library he depends on is unmaintained.
+
+Formal writing may move the preposition to the front instead — *the library on
+which he depends* — but it has to appear in one place or the other. Dropping it
+leaves the verb looking transitive and the sentence reads as unfinished.
+
 ## Sentence patterns
 
 ### `Why not` takes a bare verb, not `-ing`
