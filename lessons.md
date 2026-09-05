@@ -309,6 +309,19 @@ A plural `practices` does exist, but it is effectively a different word meaning
 *best practices*. Quantify the uncountable sense with a measure word instead —
 *two hours of practice*, *a lot of practice*.
 
+### `difficulty` is uncountable when it means "how hard"
+
+In the sense of the level of challenge something presents, `difficulty` takes no
+plural. The plural `difficulties` means *troubles, obstacles that were run into*
+— a different sense — so pluralizing it changes the request.
+
+- ✗ Compare the two exams and rate their difficulties.
+- ✓ Compare the two exams and rate their difficulty.
+- ✓ We ran into difficulties migrating the database. — actual troubles
+
+The same split hits `experience` (know-how vs. individual episodes) and `damage`
+(harm vs. legal damages).
+
 ## Word choice
 
 ### An `-ally` adverb says "with respect to X", not "in an X way"
@@ -324,3 +337,16 @@ manner the action should take, so they cannot ask for the quality itself.
 The adverb is right when the point really is to restrict a claim to one
 dimension: *the bridge is structurally sound* means sound as far as its structure
 goes, and leaves everything else open.
+
+### School years do not translate by number
+
+`1st grade`, `2nd grade` count from the start of elementary school in English, so
+a Korean-style "high school 1st grade" lands six years off. Name the stage
+instead, or use the continuous US grade number.
+
+- ✗ a problem set for high school 1st grade students
+- ✓ a problem set for first-year high school students
+- ✓ a problem set for 10th graders
+
+`freshman`, `sophomore`, `junior`, `senior` also work for the four high-school
+years, but they are US-specific and are used for university years too.
