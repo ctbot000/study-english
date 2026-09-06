@@ -219,6 +219,19 @@ or `to` for the act of sending it there.
 Keep `as` for the shape the work takes: *release it as a single-page site*
 describes what it is, *release it on Netlify* names where it lives.
 
+### A noun keeps its own preposition
+
+Many nouns are welded to one preposition, and the rest of the sentence does not
+change it. `scope` takes `of`, whatever follows.
+
+- ✗ Is recursion within the scope for beginners?
+- ✓ Is recursion within the scope of the beginner course?
+- ✓ Is recursion in scope for beginners? — `in scope` is a different, fixed phrase
+
+The pairs that come up most: `the scope of`, `a reason for`, `an increase in`,
+`a solution to`, `an answer to`, `the effect on`, `a demand for`, `access to`.
+Verbs behave the same way — see [A relative clause keeps the verb's preposition].
+
 ### A relative clause keeps the verb's preposition
 
 When the object of a preposition becomes the head of a relative clause, the
