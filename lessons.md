@@ -5,6 +5,18 @@ a made-up example — short enough to reread in full.
 
 ## Articles
 
+### `a` or `an` follows the sound, not the letter
+
+`an` goes before a vowel *sound*. A word starting with a vowel letter can begin
+with a consonant sound, and the other way round.
+
+- ✗ an mobile app, a hour, an user
+- ✓ a mobile app, an hour, a user
+
+`user`, `unit`, `one-off` and `European` start with a `y`/`w` sound, so they take
+`a`. `hour`, `honest`, `heir` have a silent `h`, so they take `an`. Initialisms
+follow how the letter is said: `an SQL query`, `an HTTP header`, `a URL`.
+
 ### A singular countable noun needs an article
 
 Korean has no articles, so they are the easiest thing to drop. Almost every
