@@ -231,6 +231,21 @@ or `to` for the act of sending it there.
 Keep `as` for the shape the work takes: *release it as a single-page site*
 describes what it is, *release it on Netlify* names where it lives.
 
+### Comparison words take `as` or `to`, never `with`
+
+`the same`, `similar`, `identical`, `equal` each have a fixed partner, and `with`
+is not it. `with` says *accompanied by*, so it turns a comparison into a
+description of two things sitting together.
+
+- ✗ I want the same rendering quality with the mobile app.
+- ✓ I want the same rendering quality as the mobile app.
+- ✗ The output is similar with the old build.
+- ✓ The output is similar to the old build.
+
+`the same as`, `similar to`, `identical to`, `equal to`, `different from`. Only
+`compare` takes both, with a difference in meaning: *compare X to Y* likens them,
+*compare X with Y* examines them side by side.
+
 ### A noun keeps its own preposition
 
 Many nouns are welded to one preposition, and the rest of the sentence does not
