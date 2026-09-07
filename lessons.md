@@ -405,3 +405,18 @@ instead, or use the continuous US grade number.
 
 `freshman`, `sophomore`, `junior`, `senior` also work for the four high-school
 years, but they are US-specific and are used for university years too.
+
+### A nationality after `be` is an adjective, not a plural noun
+
+Most nationality words are both an adjective and a noun. When `be` is describing
+who someone is, English takes the adjective, and an adjective has no plural.
+
+- ✗ The new interns are Koreans.
+- ✓ The new interns are Korean.
+- ✗ Most of our readers are Germans.
+- ✓ Most of our readers are German.
+
+The plural noun is for counting people as members of a group: *three Koreans
+joined the call*, *the Germans on the team*. Nationalities ending in `-ese` and
+`-ish` have no singular countable noun at all, so they need a noun after them:
+*a Japanese engineer*, *a British colleague* — never *a Japanese*.
