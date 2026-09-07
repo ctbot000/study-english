@@ -122,6 +122,21 @@ For a habit that is still in force, use the simple present with `always`,
 `usually`, or `normally`. To point at one departure from it, name the departure:
 *you normally do X — why not this time?*
 
+### The simple present says what a thing does; the progressive, what it is doing now
+
+A clause describing what something characteristically or permanently does takes
+the simple present. `is -ing` narrows it to this moment, so using it for a fixed
+property makes a permanent trait sound like a passing state.
+
+- ✗ I want a badge that is showing the number of unread messages.
+- ✓ I want a badge that shows the number of unread messages. — that is its job
+- ✗ The lamp has a handle that is folding flat.
+- ✓ The lamp has a handle that folds flat.
+
+Keep the progressive when the point really is "right now", and the contrast
+survives: *the badge shows unread messages, but it is showing an old count at
+the moment.*
+
 ## Word order and modifiers
 
 ### A superlative goes in front of the whole noun phrase
