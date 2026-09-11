@@ -420,3 +420,18 @@ The plural noun is for counting people as members of a group: *three Koreans
 joined the call*, *the Germans on the team*. Nationalities ending in `-ese` and
 `-ish` have no singular countable noun at all, so they need a noun after them:
 *a Japanese engineer*, *a British colleague* — never *a Japanese*.
+
+## Spelling
+
+### Greek `rh` and `th` survive in English where Romance spellings drop them
+
+Words English took from Greek keep the `h` after `r` and inside `th`, even
+though French and Spanish spell the same word without it. Writing the Romance
+form is a spelling error, not a variant.
+
+- ✗ The drummer kept a steady rythme.
+- ✓ The drummer kept a steady rhythm. — French *rythme*, Spanish *ritmo*
+
+The family: rhythm, rhyme, rhetoric, rhapsody, rheumatism, rhinoceros, and the
+`-thm` ending in algorithm and logarithm. Note also that `rhythm` has no vowel
+between the `th` and the `m`, which is what makes it easy to mistype.
