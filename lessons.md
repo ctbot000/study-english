@@ -329,6 +329,21 @@ To say *in order that something does not happen*, `not to` alone does not work.
 Bare `not to` is correct only as the object of verbs like `tell`, `ask`, or
 `decide`: *I told him not to wait*.
 
+### `helpful to` needs a person; a thing is `helpful for -ing`
+
+`helpful`, `useful` and `hard` take a to-infinitive only when the subject is a
+dummy `it` standing for the whole activity, or when a person is doing the
+solving. When the subject is the thing that provides the help, name the task
+with `for` plus `-ing`, or drop the adjective and use `help`.
+
+- ✗ The legend doesn't seem to be helpful to read the chart.
+- ✓ The legend doesn't seem helpful for reading the chart.
+- ✓ The legend doesn't seem to help with the chart.
+- ✓ It is helpful to read the legend first. — dummy `it`, the activity as a whole
+
+The same split applies to `useful`: *a useful tool for finding leaks*, but *it is
+useful to check for leaks*.
+
 ### A shortened time clause borrows the main clause's subject
 
 `after`, `once`, `until`, `before`, `when`, and `while` can drop the subject in
