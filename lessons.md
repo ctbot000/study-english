@@ -184,6 +184,19 @@ The first reads as though the crash is the automatic part. English binds a modif
 to the nearest candidate, so distance from the verb changes the meaning rather than
 merely sounding odd.
 
+### `more` goes after the number, not before it
+
+When a number says how many extra things are wanted, the number comes first and
+`more` follows it. Putting `more` in front of the number is ungrammatical.
+
+- ✗ Please order more two chairs for the meeting room.
+- ✓ Please order two more chairs for the meeting room.
+- ✓ Please order another two chairs for the meeting room. — same meaning
+
+`more` does come first when no number follows it — *order more chairs*, *we need
+more time*. The rule is only about the collision with a number, and it holds for
+the other quantity words too: *two fewer chairs*, *three extra chairs*.
+
 ## Prepositions
 
 ### Things are `on` a screen, not `in` it
