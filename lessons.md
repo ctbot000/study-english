@@ -377,6 +377,27 @@ miss because the phrase sounds complete on its own:
 The short form is fine when the subjects genuinely match: *once merged, the branch
 can be deleted* works, because the branch is the thing merged.
 
+### An imperative tells the reader to act, so name the doer when it is not them
+
+An English imperative has an understood subject, and that subject is always
+*you*. When the thing that should perform the action is a program rather than
+the person reading, a bare imperative points at the wrong actor, and the reader
+has to guess which was meant.
+
+- ✗ Ring the bell every hour. — an instruction to the reader
+- ✓ Make the clock ring the bell every hour.
+- ✗ Count the words while typing. — tells the reader to count
+- ✓ Have the editor count the words while you type.
+
+`make X do Y` and `have X do Y` are the two everyday patterns for this; `get X to
+do Y` adds a sense of persuading something reluctant. A plain imperative is
+correct and normal whenever the reader really is the one to act — *run the tests
+before pushing* needs no subject at all. The ambiguity appears only when the
+sentence describes behaviour to be built rather than a task to be done.
+
+A related trap is a participle clause that borrows a subject it should not — see
+[A shortened time clause borrows the main clause's subject].
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
