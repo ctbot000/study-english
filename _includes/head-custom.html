@@ -1,0 +1,83 @@
+<style>
+  .toc {
+    margin: 1.5rem 0 2rem;
+    padding: .75rem 1rem;
+    border: 1px solid #dfe2e5;
+    border-radius: 6px;
+    background: #f6f8fa;
+    font-size: 15px;
+  }
+  .toc > summary { cursor: pointer; font-weight: 600; color: #24292e; }
+  .toc > ul { list-style: none; padding-left: 0; margin: .75rem 0 .25rem; }
+  .toc > ul > li { break-inside: avoid; margin: 0 0 .85rem; }
+  .toc > ul > li > a { font-weight: 600; }
+  .toc ul ul {
+    list-style: none;
+    padding-left: 0;
+    margin: .3rem 0 0;
+    border-left: 2px solid #dfe2e5;
+  }
+  .toc ul ul li { padding-left: .8em; margin: .2rem 0; line-height: 1.35; }
+  .toc a { color: #0366d6; text-decoration: none; }
+  .toc a:hover { text-decoration: underline; }
+  @media (min-width: 900px) {
+    .toc > ul { columns: 2; column-gap: 2.5rem; }
+  }
+</style>
+
+<script>
+  // Build a contents list from the headings of any page long enough to need one.
+  // Open on a wide screen, collapsed on a phone, where it would bury the text.
+  document.addEventListener('DOMContentLoaded', function () {
+    var body = document.querySelector('.markdown-body');
+    if (!body) return;
+
+    var sections = [];
+    body.querySelectorAll('h2[id], h3[id]').forEach(function (h) {
+      if (h.tagName === 'H2') sections.push({ heading: h, rules: [] });
+      else if (sections.length) sections[sections.length - 1].rules.push(h);
+    });
+    if (sections.length < 4) return;
+
+    function link(heading) {
+      var a = document.createElement('a');
+      a.href = '#' + heading.id;
+      a.innerHTML = heading.innerHTML;
+      return a;
+    }
+
+    var list = document.createElement('ul');
+    sections.forEach(function (section) {
+      var item = document.createElement('li');
+      item.appendChild(link(section.heading));
+      if (section.rules.length) {
+        var sublist = document.createElement('ul');
+        section.rules.forEach(function (rule) {
+          var subitem = document.createElement('li');
+          subitem.appendChild(link(rule));
+          sublist.appendChild(subitem);
+        });
+        item.appendChild(sublist);
+      }
+      list.appendChild(item);
+    });
+
+    var summary = document.createElement('summary');
+    summary.textContent = 'Contents';
+
+    var toc = document.createElement('details');
+    toc.className = 'toc';
+    toc.appendChild(summary);
+    toc.appendChild(list);
+
+    var nav = document.createElement('nav');
+    nav.setAttribute('aria-label', 'Contents');
+    nav.appendChild(toc);
+    sections[0].heading.parentNode.insertBefore(nav, sections[0].heading);
+
+    var wide = window.matchMedia('(min-width: 900px)');
+    var sync = function () { toc.open = wide.matches; };
+    sync();
+    wide.addEventListener('change', sync);
+  });
+</script>
