@@ -184,6 +184,17 @@ The first reads as though the crash is the automatic part. English binds a modif
 to the nearest candidate, so distance from the verb changes the meaning rather than
 merely sounding odd.
 
+It bites hardest when the trailing phrase is a clause with a verb of its own,
+because then the stranded adverb lands beside a verb it could plausibly modify
+and the wrong reading is perfectly grammatical.
+
+- ✗ Write a guide explaining how the engine starts clearly.
+- ✓ Write a clear guide explaining how the engine starts.
+- ✓ Clearly explain how the engine starts. — if the adverb really modifies *explain*
+
+Moving the adverb in front of the clause rarely helps either; turn it into an
+adjective on the thing being produced, or put it before the verb it belongs to.
+
 ### `more` goes after the number, not before it
 
 When a number says how many extra things are wanted, the number comes first and
