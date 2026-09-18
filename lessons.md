@@ -302,6 +302,32 @@ Formal writing may move the preposition to the front instead — *the library on
 which he depends* — but it has to appear in one place or the other. Dropping it
 leaves the verb looking transitive and the sentence reads as unfinished.
 
+### A booking is made `for` the people it covers, not `with` them
+
+`with` names who is coming along. The number a reservation is sized to is what
+the booking is *for* — the same `for` as in *a table for two*.
+
+- ✗ Book a room with four people.
+- ✓ Book a room for four people.
+- ✓ Book a room for four. — the noun is usually dropped
+
+`with` stays correct when accompaniment really is the point: *I travelled with
+four friends* says who came, not how many beds were reserved.
+
+### A date range takes one marker, not two
+
+`from … to`, `through`, and `between … and` each mark a span on their own.
+`during` marks one too, so putting it in front of another says the same thing
+twice.
+
+- ✗ The sale runs during May 1 through May 7.
+- ✓ The sale runs from May 1 to May 7.
+- ✓ The sale runs May 1 through May 7. — `through` includes the last day
+- ✓ The sale runs during the first week of May. — one named stretch, not two endpoints
+
+Keep `during` for a single period — *during the outage*, *during the holidays* —
+and let `from … to` or `through` carry a range that names both ends.
+
 ## Sentence patterns
 
 ### `Why not` takes a bare verb, not `-ing`
