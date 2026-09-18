@@ -37,6 +37,23 @@ of several and it does not matter which.
 Plurals and uncountable nouns are the exception: *Send me the reports* or
 *Send me reports* are both fine.
 
+### Some names still take `the`
+
+Most proper nouns take no article — `Korea`, `Slack`, `Kubernetes`. The exception
+is a name for the single thing of its kind rather than a brand: it keeps `the`.
+
+- ✗ The firmware is downloaded over Internet.
+- ✓ The firmware is downloaded over the Internet.
+- ✗ Web changed how software is distributed.
+- ✓ The Web changed how software is distributed.
+
+The same goes for `the cloud`, `the Moon`, `the Pacific`, `the Netherlands`. A
+capital letter is not a licence to drop the article.
+
+One catch: when `internet` means connectivity rather than the network itself, it
+is an uncountable mass noun, lowercase and with no article — *the café has no
+internet*.
+
 ## Verb forms
 
 ### Third person singular takes `-s`
