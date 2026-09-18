@@ -39,10 +39,16 @@
     });
     if (sections.length < 4) return;
 
+    // The theme's anchor.js drops a link inside every heading; copying it would
+    // nest one anchor in another, so take a clone with it removed.
     function link(heading) {
+      var text = heading.cloneNode(true);
+      text.querySelectorAll('.anchorjs-link').forEach(function (anchor) {
+        anchor.remove();
+      });
       var a = document.createElement('a');
       a.href = '#' + heading.id;
-      a.innerHTML = heading.innerHTML;
+      a.innerHTML = text.innerHTML;
       return a;
     }
 
