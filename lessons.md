@@ -10,12 +10,17 @@ a made-up example — short enough to reread in full.
 `an` goes before a vowel *sound*. A word starting with a vowel letter can begin
 with a consonant sound, and the other way round.
 
-- ✗ an mobile app, a hour, an user
-- ✓ a mobile app, an hour, a user
+- ✗ an mobile app, a hour, an user, an human error
+- ✓ a mobile app, an hour, a user, a human error
 
 `user`, `unit`, `one-off` and `European` start with a `y`/`w` sound, so they take
-`a`. `hour`, `honest`, `heir` have a silent `h`, so they take `an`. Initialisms
-follow how the letter is said: `an SQL query`, `an HTTP header`, `a URL`.
+`a`. Initialisms follow how the letter is said: `an SQL query`, `an HTTP header`,
+`a URL`.
+
+`h` cuts both ways, and the silent list is the short one. Only `hour`, `honest`,
+`heir` and their relatives take `an`; every `h` that is actually pronounced takes
+`a` — `a human`, `a hotel`, `a history lesson`, `a hybrid`. A written vowel after
+the `h` is not the test.
 
 ### A singular countable noun needs an article
 
