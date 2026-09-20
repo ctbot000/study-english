@@ -230,6 +230,20 @@ When a number says how many extra things are wanted, the number comes first and
 more time*. The rule is only about the collision with a number, and it holds for
 the other quantity words too: *two fewer chairs*, *three extra chairs*.
 
+### What a thing is for takes a relative clause, not a bare `-ing` modifier
+
+An `-ing` phrase after a noun says what that particular thing happens to be
+doing. It does not state what a thing is *for*, so using it to describe a tool,
+a product or a role reads as a snapshot rather than a definition.
+
+- ✗ We need a script cleaning the logs.
+- ✓ We need a script that cleans the logs.
+- ✓ We need a log-cleaning script.
+- ✓ We need a script to clean the logs.
+
+The `-ing` form is right when the action really is in progress and is what picks
+the thing out: *the script cleaning the logs right now is the old one*.
+
 ## Prepositions
 
 ### Things are `on` a screen, not `in` it
@@ -240,6 +254,23 @@ browser*, *in an app*, *in the terminal*.
 
 - ✗ Make it work in a touch screen.
 - ✓ Make it work on a touch screen.
+
+### A device that supplies the data takes `from`, not `on`
+
+`on` puts something onto a device's surface or display. When the device is where
+the data *comes from*, the preposition is `from` — or name the stream it
+produces and use `in`.
+
+- ✗ Read the temperature on the sensor every minute.
+- ✓ Read the temperature from the sensor every minute.
+- ✗ Count the cars on the drone.
+- ✓ Count the cars in the drone's video feed.
+
+The same device takes either one, and the choice changes the meaning: *show the
+map on the tablet* paints pixels on its screen, while *read the map from the
+tablet* pulls the file off it. See [Things are `on` a screen, not `in` it] for
+the display sense, and [Do not chain the same preposition] for keeping `from`
+reserved for the real source.
 
 ### Do not chain the same preposition
 
