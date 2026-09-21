@@ -589,6 +589,22 @@ joined the call*, *the Germans on the team*. Nationalities ending in `-ese` and
 `-ish` have no singular countable noun at all, so they need a noun after them:
 *a Japanese engineer*, *a British colleague* — never *a Japanese*.
 
+### `map of` takes a territory; an activity takes `guide to` or `roadmap for`
+
+`map` names a picture of a space, so what follows `of` is the thing laid out —
+a place, a field, a system. An activity there is understandable but reads as a
+mixed metaphor, and English has settled head nouns for that sense.
+
+- ✗ a complete map of learning the guitar
+- ✓ a complete map of the guitar repertoire
+- ✓ a complete guide to learning the guitar
+- ✓ a complete roadmap for learning the guitar
+
+The other picture nouns behave the same way: a `diagram of`, a `chart of` and an
+`atlas of` all want the thing, while `instructions for`, `a path to` and `a plan
+for` want the activity. The test is whether you could point at what follows
+`of` — you can point at a repertoire, not at learning one.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
