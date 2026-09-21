@@ -59,6 +59,22 @@ One catch: when `internet` means connectivity rather than the network itself, it
 is an uncountable mass noun, lowercase and with no article — *the café has no
 internet*.
 
+### `the` + singular is the normal way to name a kind of thing in general
+
+When a singular noun stands for a whole class rather than one specimen, English
+prefers `the`. This is strongest for body parts and organs, species, and
+instruments. `a` is not ungrammatical, but it shifts the reading to "some one
+example", which is rarely what a general statement means.
+
+- ✗ The exhibit shows how a human ear turns vibration into sound.
+- ✓ The exhibit shows how the human ear turns vibration into sound.
+- ✗ She has played a cello since she was nine.
+- ✓ She has played the cello since she was nine.
+
+A bare plural is the other generic form and is often the most natural of the
+three: *human ears turn vibration into sound*. Keep `a` for when you really do
+mean any single instance — *if a rib breaks, it usually heals on its own*.
+
 ## Verb forms
 
 ### Third person singular takes `-s`
