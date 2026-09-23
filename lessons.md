@@ -605,6 +605,32 @@ The other picture nouns behave the same way: a `diagram of`, a `chart of` and an
 for` want the activity. The test is whether you could point at what follows
 `of` — you can point at a repertoire, not at learning one.
 
+### `conversation` is talking; `conversion` is changing form
+
+The two differ by two letters and both are real words, so a spell-checker passes
+the wrong one. `conversation` is people talking; `conversion` is turning
+something from one form, unit, or belief into another.
+
+- ✗ We had a long conversion about the budget.
+- ✓ We had a long conversation about the budget.
+- ✓ The conversion from PDF to plain text lost the tables.
+
+The verbs split the same way: `converse` is to talk, `convert` is to change.
+
+### Name the skill `conversational English`, not `English conversation`
+
+`English conversation` is the word-for-word form of the Korean name for a
+speaking course. It is understood, but in running prose it reads as a translated
+course title: `conversation` is mostly something you *have* or *hold*, not a
+subject you *learn*. Put the language in the noun slot instead.
+
+- ✗ The app helps adults learn English conversation.
+- ✓ The app helps adults learn conversational English.
+- ✓ The app helps adults learn to speak English.
+
+With a verb of doing, the noun is natural: *hold a conversation in English*,
+*get more conversation practice*.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
