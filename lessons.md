@@ -645,3 +645,20 @@ form is a spelling error, not a variant.
 The family: rhythm, rhyme, rhetoric, rhapsody, rheumatism, rhinoceros, and the
 `-thm` ending in algorithm and logarithm. Note also that `rhythm` has no vowel
 between the `th` and the `m`, which is what makes it easy to mistype.
+
+### Product and platform names keep their capitals in prose
+
+Korean has no capital letters, so the capital on a name is the easiest thing to
+lose in fast typing. Names of products, platforms, companies and languages are
+proper nouns: they start with a capital even in the middle of a sentence.
+
+- ✗ The update is out for android and ios, and the code is on github.
+- ✓ The update is out for Android and iOS, and the code is on GitHub.
+
+A brand keeps its own spelling, internal capitals included: GitHub,
+JavaScript, YouTube, PostgreSQL — and a lowercase first letter only where the
+brand itself has one, as in iPhone and macOS.
+
+Lowercase is right in two places: identifiers such as a folder named `android/`
+or a package name, which follow their own rules; and a common noun that shares
+the word, as in *the robot in the film is an android*.
