@@ -638,6 +638,20 @@ subject you *learn*. Put the language in the noun slot instead.
 With a verb of doing, the noun is natural: *hold a conversation in English*,
 *get more conversation practice*.
 
+### `easily` is about effort; a clearer explanation is `simply`
+
+`easily` says an action takes little effort for whoever performs it. So
+*describe it more easily* is about how hard the describing is for the speaker,
+not how clear the result is for the listener. Ask for the result instead.
+
+- ✗ Could you describe the rules more easily?
+- ✓ Could you describe the rules more simply?
+- ✓ Could you describe the rules in simpler terms?
+- ✓ Could you make the rules easier to follow?
+
+`easily` is right when the effort really is the point: *the lid comes off
+easily*, *she won the race easily*.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
