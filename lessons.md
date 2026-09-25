@@ -571,6 +571,13 @@ instead, or use the continuous US grade number.
 - ✓ a problem set for first-year high school students
 - ✓ a problem set for 10th graders
 
+The order is English too: the year comes first, then the school it belongs to.
+Keeping the Korean order reads as a translation even when the number is right.
+
+- ✗ The course covers high school first year math.
+- ✓ The course covers first-year high school math.
+- ✓ The course covers math from the first year of high school.
+
 `freshman`, `sophomore`, `junior`, `senior` also work for the four high-school
 years, but they are US-specific and are used for university years too.
 
