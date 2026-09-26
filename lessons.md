@@ -378,9 +378,9 @@ change it. `scope` takes `of`, whatever follows.
 
 The pairs that come up most: `the scope of`, `a reason for`, `an increase in`,
 `a solution to`, `an answer to`, `the effect on`, `a demand for`, `access to`.
-Verbs behave the same way — see [A relative clause keeps the verb's preposition].
+Verbs behave the same way — see [A relative clause or a question keeps the verb's preposition].
 
-### A relative clause keeps the verb's preposition
+### A relative clause or a question keeps the verb's preposition
 
 When the object of a preposition becomes the head of a relative clause, the
 preposition does not disappear with it — it stays behind at the end of the
@@ -394,6 +394,15 @@ clause. `work on a branch` still needs its `on` in *the branch you worked on*.
 Formal writing may move the preposition to the front instead — *the library on
 which he depends* — but it has to appear in one place or the other. Dropping it
 leaves the verb looking transitive and the sentence reads as unfinished.
+
+A question word moved to the front leaves its preposition behind the same way.
+That includes the `by` of a passive when the question asks who or what did it.
+
+- ✗ Which server did the request come?
+- ✓ Which server did the request come from?
+- ✗ What was the build broken?
+- ✓ What was the build broken by?
+- ✓ What broke the build? — usually better: in the active voice the question word is the subject, so no preposition is left over
 
 ### A booking is made `for` the people it covers, not `with` them
 
