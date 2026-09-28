@@ -705,3 +705,23 @@ brand itself has one, as in iPhone and macOS.
 Lowercase is right in two places: identifiers such as a folder named `android/`
 or a package name, which follow their own rules; and a common noun that shares
 the word, as in *the robot in the film is an android*.
+
+## Punctuation
+
+### No comma before `and` when it joins two verbs of the same subject
+
+When `and` links two actions done by one subject — a compound predicate — no
+comma goes before it. The comma belongs there only when a second subject starts
+a second full clause.
+
+- ✗ The script backs up the database, and uploads the archive.
+- ✓ The script backs up the database and uploads the archive. — one subject, two verbs
+- ✓ The script backs up the database, and the scheduler uploads the archive. — two clauses
+
+An imperative works the same way, because its unstated subject `you` is shared:
+
+- ✗ Clear the cache, and restart the server.
+- ✓ Clear the cache and restart the server.
+
+A list of three or more verbs is a different case: there the commas separate the
+items, as in *pull, rebuild, and deploy*.
