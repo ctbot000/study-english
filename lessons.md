@@ -526,6 +526,19 @@ sentence describes behaviour to be built rather than a task to be done.
 A related trap is a participle clause that borrows a subject it should not — see
 [A shortened time clause borrows the main clause's subject].
 
+### A description must add something to the noun it describes
+
+A modifier that repeats the noun it is attached to tells the reader nothing new:
+a logging library is already a library that provides logging. Describe the thing
+by what the name leaves out, which is usually who uses it or what it is for.
+
+- ✗ Write a logging library providing logging for our apps.
+- ✓ Write a logging library for our apps.
+- ✓ Write a library that our apps can use to record errors.
+
+The same goes for a relative clause: *a scheduler that schedules jobs* says half
+as much as *a scheduler that retries failed jobs overnight*.
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
