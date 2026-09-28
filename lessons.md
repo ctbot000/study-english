@@ -690,6 +690,21 @@ not how clear the result is for the listener. Ask for the result instead.
 `easily` is right when the effort really is the point: *the lid comes off
 easily*, *she won the race easily*.
 
+### `a recording` is audio or video; a written entry is `a record`
+
+The verb `record` covers writing information down, but a countable `recording`
+— *a recording*, *your recording*, *recordings* — is heard as captured sound or
+video. For the written entry say `record` or `note`; for the act of writing it
+down, `saving` or `logging` is clearer.
+
+- ✗ I found a mistake in your recording of the expenses.
+- ✓ I found a mistake in your record of the expenses.
+- ✗ Did your recording of the meeting notes work?
+- ✓ Did saving the meeting notes work?
+
+`recording` is right when there is something to play back: *a recording of the
+lecture*, *the call recording*.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
