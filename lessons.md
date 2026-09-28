@@ -539,6 +539,22 @@ by what the name leaves out, which is usually who uses it or what it is for.
 The same goes for a relative clause: *a scheduler that schedules jobs* says half
 as much as *a scheduler that retries failed jobs overnight*.
 
+### `provide` takes a thing, not an activity with its own object
+
+`provide` names what is supplied, so its object is a noun. An `-ing` phrase that
+carries an object of its own, such as *tracking your workouts*, is an activity
+someone does, and an activity cannot be provided. Say what the thing is for with
+`for` plus `-ing`, say who gets to act with `let`, or turn the activity into a
+noun.
+
+- ✗ The app provides tracking your workouts.
+- ✓ The app is for tracking your workouts.
+- ✓ The app lets you track your workouts.
+- ✓ The app provides workout tracking.
+
+A bare `-ing` word used as a noun is fine after `provide` — *the plan provides
+hosting* — the trouble starts only when it takes an object.
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
