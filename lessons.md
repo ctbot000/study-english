@@ -197,6 +197,19 @@ in front of the noun, so the reader knows they belong together.
 After the noun the hyphen disappears, because there is nothing to disambiguate:
 *the session is logged in*, *the author is well known*.
 
+### A noun used in front of another noun stays singular
+
+When a noun works as a modifier — alone or inside a hyphenated compound — it
+drops its plural, even when the meaning is plural.
+
+- ✗ a dogs-friendly café, a three-years-old child, a shoes store
+- ✓ a dog-friendly café, a three-year-old child, a shoe store
+
+The plural returns once the noun is back in its own right: *the café welcomes
+dogs*, *the child is three years old*. A few nouns keep their `-s` because the
+singular means something else or does not exist: *a sales team*, *a clothes
+shop*, *a news app*.
+
 ### `again` already contains "this time"
 
 `again` means the thing has happened one more time, so pairing it with `this
