@@ -568,6 +568,17 @@ noun.
 A bare `-ing` word used as a noun is fine after `provide` — *the plan provides
 hosting* — the trouble starts only when it takes an object.
 
+### In `for X to do`, X is the one doing it
+
+`for` + a noun + a `to`-infinitive makes that noun the subject of the
+infinitive: *a book for the kids to read* means the kids read it. Put a noun
+there that cannot do the action and the sentence says something odd. When the
+action belongs to you or to the reader, name them with `so … can`.
+
+- ✗ I added a test for every function to check.
+- ✓ I added a test for every function, so I can check each one.
+- ✓ The logs are on the desk for the auditor to read. — the auditor reads
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
