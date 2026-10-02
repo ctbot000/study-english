@@ -751,6 +751,21 @@ it reads as a mismatch.
 - ✓ The new banner makes the header grow upwards.
 - ✓ The new banner extends the header upwards.
 
+### You save and restore a `state`, not a `status`
+
+`status` is a condition summed up in a word or two, or a progress report: *the
+order status is "shipped"*, *check the build status*. Everything captured at a
+moment so you can come back to it — every value, position and setting — is the
+`state`. Saving, snapshotting and restoring all take `state`.
+
+- ✗ The editor saves the current status of the document every minute.
+- ✓ The editor saves the current state of the document every minute.
+- ✗ Can we roll the database back to its status from last night?
+- ✓ Can we roll the database back to its state from last night?
+
+`status` is right for the short answer to "how is it going?": *the status of the
+deploy*, *a status update*, *status: pending*.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
