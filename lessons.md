@@ -443,6 +443,17 @@ twice.
 Keep `during` for a single period — *during the outage*, *during the holidays* —
 and let `from … to` or `through` carry a range that names both ends.
 
+### A distance from a point is `more than N from` it, not `above N from` it
+
+`above` + a number means "more than" on a scale with no direction of its own:
+*above 30 degrees*, *above average*. A distance measured `from` a point already
+has its direction, and `above` in front of the number adds a second one that
+clashes with `from`. Use `more than`, or let `above` name the point instead.
+
+- ✗ The kite is above 30 metres from the ground.
+- ✓ The kite is more than 30 metres from the ground.
+- ✓ The kite is more than 30 metres above the ground. — `above` takes the point, not the number
+
 ## Sentence patterns
 
 ### `Why not` takes a bare verb, not `-ing`
