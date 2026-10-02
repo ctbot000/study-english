@@ -729,6 +729,17 @@ down, `saving` or `logging` is clearer.
 `recording` is right when there is something to play back: *a recording of the
 lecture*, *the call recording*.
 
+### A direction like `upwards` goes with a verb of motion, not a comparative
+
+`upwards`, `downwards` and `outwards` say which way something moves, so they
+attach to a verb that moves it: `grow`, `extend`, `spread`, `push`. A comparative
+such as `taller` or `wider` already names the dimension, and a direction added to
+it reads as a mismatch.
+
+- ✗ The new banner makes the header taller upwards.
+- ✓ The new banner makes the header grow upwards.
+- ✓ The new banner extends the header upwards.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
