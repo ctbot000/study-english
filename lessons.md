@@ -122,6 +122,18 @@ that person receives goes in a second slot, or in a `that`-clause.
 - ✗ He informed the deadline.
 - ✓ He informed me of the deadline.
 
+### A transitive verb keeps its object, even when the context makes it obvious
+
+Korean drops an object the listener can work out; English keeps it, usually as a
+pronoun. `access`, `use`, `enter`, `install`, `update` and `support` need
+something after them. If no object fits, switch to a verb that needs none.
+
+- ✗ Users who access through the mobile app see the old menu.
+- ✓ Users who access it through the mobile app see the old menu.
+- ✓ Users who sign in through the mobile app see the old menu.
+- ✗ After you install, restart the editor.
+- ✓ After you install it, restart the editor.
+
 ## Tense
 
 ### The present perfect means it is still true
