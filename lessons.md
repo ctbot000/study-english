@@ -635,8 +635,10 @@ plural. The plural `difficulties` means *troubles, obstacles that were run into*
 - ✓ Compare the two exams and rate their difficulty.
 - ✓ We ran into difficulties migrating the database. — actual troubles
 
-The same split hits `experience` (know-how vs. individual episodes) and `damage`
-(harm vs. legal damages).
+The same split hits `experience` (know-how vs. individual episodes), `damage`
+(harm vs. legal damages) and `permission` (consent vs. access rights): *She asked
+permission to leave early* is uncountable, while *file permissions* names the
+settings.
 
 ## Word choice
 
