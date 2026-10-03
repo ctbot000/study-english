@@ -285,6 +285,14 @@ a product or a role reads as a snapshot rather than a definition.
 The `-ing` form is right when the action really is in progress and is what picks
 the thing out: *the script cleaning the logs right now is the old one*.
 
+The `-ing` phrase also makes the noun the one doing the action. When the noun is
+a setting where *someone else* acts — a game, an app, a page — use `where` or
+`in which`, or the thing ends up doing the user's job.
+
+- ✗ A quiz app naming capital cities. — the app does the naming
+- ✓ A quiz app where players name capital cities.
+- ✓ A quiz app in which you name each country's capital.
+
 ## Prepositions
 
 ### Things are `on` a screen, not `in` it
