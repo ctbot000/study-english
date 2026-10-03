@@ -514,6 +514,17 @@ To say *in order that something does not happen*, `not to` alone does not work.
 Bare `not to` is correct only as the object of verbs like `tell`, `ask`, or
 `decide`: *I told him not to wait*.
 
+### "Unless it is done already" is `if not already`, not `if not yet`
+
+The short conditional drops the verb, and only `already` survives that:
+`if not already`. `yet` needs its negative clause back, with a subject and a
+verb.
+
+- ✗ Install the driver if not yet.
+- ✓ Install the driver if not already installed.
+- ✓ Install the driver if it isn't installed yet.
+- ✓ Install the driver if you haven't already.
+
 ### `helpful to` needs a person; a thing is `helpful for -ing`
 
 `helpful`, `useful` and `hard` take a to-infinitive only when the subject is a
