@@ -411,6 +411,11 @@ change it. `scope` takes `of`, whatever follows.
 
 The pairs that come up most: `the scope of`, `a reason for`, `an increase in`,
 `a solution to`, `an answer to`, `the effect on`, `a demand for`, `access to`.
+A fault sits inside what it is a fault of, so `a bug`, `an error` and `a typo`
+take `in`:
+
+- ✗ The crash came from a bug of the date library.
+- ✓ The crash came from a bug in the date library.
 Verbs behave the same way — see [A relative clause or a question keeps the verb's preposition].
 
 ### A relative clause or a question keeps the verb's preposition
