@@ -75,6 +75,19 @@ A bare plural is the other generic form and is often the most natural of the
 three: *human ears turn vibration into sound*. Keep `a` for when you really do
 mean any single instance — *if a rib breaks, it usually heals on its own*.
 
+### A stage of the software process takes no article: `in CI`, `in production`
+
+`CI`, `production`, `staging`, `review` and `development` used as the place
+where work happens are treated like `at school` or `in bed`: no article.
+
+- ✗ The flaky test passes locally but fails in the CI.
+- ✓ The flaky test passes locally but fails in CI.
+- ✗ The fix has been running in the production for a week.
+- ✓ The fix has been running in production for a week.
+
+The article comes back with a noun that names one specific thing: *the CI run
+for that commit*, *the production database*, *the staging server*.
+
 ## Verb forms
 
 ### Third person singular takes `-s`
