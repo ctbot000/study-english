@@ -492,6 +492,17 @@ clashes with `from`. Use `more than`, or let `above` name the point instead.
 - ✓ The kite is more than 30 metres from the ground.
 - ✓ The kite is more than 30 metres above the ground. — `above` takes the point, not the number
 
+### A change starts `from the next X on`, not `from a new X`
+
+`from` marks where a change begins, and a starting point is a particular one:
+*the next release*, *this sprint*, *Monday*. With `a`, no particular point is
+named, and `from a new X` reads as something coming out of an X. Name the point,
+usually with `on` after it, or describe every later X instead.
+
+- ✗ The new pricing applies from a new contract.
+- ✓ The new pricing applies from the next contract on.
+- ✓ The new pricing applies to new contracts.
+
 ## Sentence patterns
 
 ### `Why not` takes a bare verb, not `-ing`
@@ -638,6 +649,17 @@ action belongs to you or to the reader, name them with `so … can`.
 - ✗ I added a test for every function to check.
 - ✓ I added a test for every function, so I can check each one.
 - ✓ The logs are on the desk for the auditor to read. — the auditor reads
+
+### In `X is easy to do`, X is what gets done
+
+After `easy`, `hard`, `simple` or `difficult`, the subject is the *object* of the
+infinitive: *the switch is easy to miss* means people miss the switch. So the
+subject has to be the thing that gets missed, read or done, not the situation
+around it. Name that thing, or turn the situation into `having to …`.
+
+- ✗ Needing a restart is easy to miss. — what gets missed is the restart
+- ✓ The restart is easy to miss.
+- ✓ Having to restart is easy to forget.
 
 ## Countable and uncountable nouns
 
