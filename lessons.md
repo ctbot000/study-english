@@ -669,6 +669,16 @@ The same split hits `experience` (know-how vs. individual episodes), `damage`
 permission to leave early* is uncountable, while *file permissions* names the
 settings.
 
+### `one` stands in for a singular noun; a plural takes `ones`
+
+The pronoun `one` repeats a countable noun without naming it again, and it keeps
+that noun's number. After a plural, use `ones`, or make the whole sentence
+singular.
+
+- ✗ Reuse the existing scripts if there is a good one.
+- ✓ Reuse the existing scripts if there are good ones.
+- ✓ Reuse an existing script if there is a good one.
+
 ## Word choice
 
 ### An `-ally` adverb says "with respect to X", not "in an X way"
@@ -830,6 +840,18 @@ and a jeweller turns them into jewelry.
 
 `jewel` sits in between: a single precious stone, often cut, and also a stone set
 in jewelry. *Treasure* covers any of them, finished or not.
+
+### `proactively` means without being asked; `actively` means with effort
+
+`actively` is the opposite of `passively`: doing something with effort, or being
+engaged in it right now — *an actively maintained library*, *actively looking
+for a job*. It says nothing about who starts it. For acting on your own
+initiative, before anyone asks, use `proactively`, or say it plainly:
+`without being asked`, `unprompted`.
+
+- ✗ Actively tell the team when a release is going to slip.
+- ✓ Proactively tell the team when a release is going to slip.
+- ✓ Tell the team when a release is going to slip, without waiting to be asked.
 
 ## Spelling
 
