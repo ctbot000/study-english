@@ -817,6 +817,20 @@ moment so you can come back to it — every value, position and setting — is t
 `status` is right for the short answer to "how is it going?": *the status of the
 deploy*, *a status update*, *status: pending*.
 
+### What comes out of the ground is `gems` or `jewels`; `jewelry` is made from them
+
+`jewelry` (British `jewellery`) is the finished things people wear — rings,
+necklaces, earrings — and is uncountable. What a miner digs up is the raw stone:
+`gems`, `gemstones`, or `jewels` (countable). So you mine, dig or hunt for gems,
+and a jeweller turns them into jewelry.
+
+- ✗ The explorers spent a week in the cave mining for jewelry.
+- ✓ The explorers spent a week in the cave mining for gems.
+- ✓ She made the ruby they found into a piece of jewelry. — one item: `a piece of`
+
+`jewel` sits in between: a single precious stone, often cut, and also a stone set
+in jewelry. *Treasure* covers any of them, finished or not.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
