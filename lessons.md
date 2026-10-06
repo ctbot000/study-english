@@ -650,6 +650,14 @@ action belongs to you or to the reader, name them with `so … can`.
 - ✓ I added a test for every function, so I can check each one.
 - ✓ The logs are on the desk for the auditor to read. — the auditor reads
 
+The noun the phrase hangs on is already the infinitive's object, so that slot
+stays empty: no `it` or `them` for it.
+
+- ✗ We built a maze for the kids to explore it.
+- ✓ We built a maze for the kids to explore.
+- ✗ They left puzzles for the guests to solve them together.
+- ✓ They left puzzles for the guests to solve together.
+
 ### In `X is easy to do`, X is what gets done
 
 After `easy`, `hard`, `simple` or `difficult`, the subject is the *object* of the
