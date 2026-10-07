@@ -669,6 +669,20 @@ around it. Name that thing, or turn the situation into `having to …`.
 - ✓ The restart is easy to miss.
 - ✓ Having to restart is easy to forget.
 
+### `worth` needs an object: `worth it`, `worth the cost`, `worth doing`
+
+`worth` behaves like a preposition, so it is always followed by what the thing is
+worth: a noun, an `-ing` form, or `it` for something just mentioned. Ending the
+clause at `worth` leaves it unfinished.
+
+- ✗ The long queue was worth.
+- ✓ The long queue was worth it.
+- ✗ I doubt the upgrade is worth.
+- ✓ I doubt the upgrade is worth the cost.
+- ✓ I doubt the upgrade is worth doing.
+
+The adjective that can stand alone is `worthwhile`: *the trip was worthwhile*.
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
