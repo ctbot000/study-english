@@ -716,6 +716,14 @@ The same split hits `experience` (know-how vs. individual episodes), `damage`
 permission to leave early* is uncountable, while *file permissions* names the
 settings.
 
+`challenge` splits the same way: as "how demanding something is" it is
+uncountable (*the puzzle needs more challenge*), and the plural names separate
+tasks or obstacles. To ask for something to be harder, the adjective is usually
+the most natural: *the puzzle should be more challenging*.
+
+- ✗ The last level needs more challenges.
+- ✓ The last level should be more challenging.
+
 ### `one` stands in for a singular noun; a plural takes `ones`
 
 The pronoun `one` repeats a countable noun without naming it again, and it keeps
