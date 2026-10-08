@@ -948,3 +948,16 @@ An imperative works the same way, because its unstated subject `you` is shared:
 
 A list of three or more verbs is a different case: there the commas separate the
 items, as in *pull, rebuild, and deploy*.
+
+### `rainy` describes the weather; the thing rain makes takes the noun `rain`
+
+Weather adjectives — `rainy`, `snowy`, `windy`, `sunny` — describe a time or a
+place where that weather happens. What the weather itself produces or looks like
+takes the noun as a modifier instead.
+
+- ✗ The windy noise kept me awake. I love the snowy smell.
+- ✓ The wind noise kept me awake. I love the smell of snow.
+- ✓ a rainy afternoon, a windy coast, a snowy village
+
+The test is whether the thing *has* that weather. An afternoon can be rainy; a
+sound cannot, because the sound is the rain.
