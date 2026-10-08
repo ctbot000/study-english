@@ -115,14 +115,17 @@ The common ones: `expire`, `occur`, `happen`, `arrive`, `appear`, `disappear`,
 
 ### Noun and verb forms are different words
 
-English often changes the spelling between the noun and the verb, and using the
-noun where a verb belongs is a grammar error, not a typo.
+English often changes the spelling between the noun and the verb, and using one
+where the other belongs is a grammar error, not a typo. It goes both ways.
 
 - ✗ Please response by Friday.
 - ✓ Please respond by Friday. — the noun is *a response*
+- ✗ Pack your belongs before checkout.
+- ✓ Pack your belongings before checkout. — *belong* is only a verb
 
 The pairs worth memorizing: advice / advise, belief / believe, choice / choose,
-loss / lose, proof / prove, success / succeed, breath / breathe.
+loss / lose, proof / prove, success / succeed, breath / breathe, belongings /
+belong.
 
 ### Some verbs take a person as their object, not a thing
 
