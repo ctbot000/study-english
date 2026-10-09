@@ -734,6 +734,20 @@ singular.
 - ✓ Reuse the existing scripts if there are good ones.
 - ✓ Reuse an existing script if there is a good one.
 
+### `another` takes a singular noun; a plural takes `other` or `more`
+
+`another` is `an` + `other`, so it carries the article's "one" inside it and
+needs a singular countable noun after it. For several more things, drop the
+`an`: `other` with a plural, or `more`.
+
+- ✗ Add another color options to the menu.
+- ✓ Add another color option to the menu.
+- ✓ Add other color options to the menu.
+- ✓ Add more color options to the menu.
+
+The exception is a number between them, which makes the group one bundle:
+*another two chairs*, *another three days*.
+
 ## Word choice
 
 ### An `-ally` adverb says "with respect to X", not "in an X way"
