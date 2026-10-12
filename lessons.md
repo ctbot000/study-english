@@ -922,6 +922,16 @@ initiative, before anyone asks, use `proactively`, or say it plainly:
 - ✓ Proactively tell the team when a release is going to slip.
 - ✓ Tell the team when a release is going to slip, without waiting to be asked.
 
+### `fancy` means elaborate or upmarket; looking like the real thing is `realistic`
+
+`fancy` describes something decorated, elaborate or expensive-looking: a fancy
+cake, a fancy hotel. It says nothing about being true to life. To ask for
+something that looks more like the real thing, say `realistic` or `lifelike`.
+
+- ✗ Make the trees in the game fancier, like real trees.
+- ✓ Make the trees in the game more realistic, like real trees.
+- ✓ Make the menu fancier, with gold borders and a script font. — elaborate, not true to life
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
