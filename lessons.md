@@ -175,6 +175,13 @@ moment, so the verb must be simple past.
 - ✓ The build failed yesterday.
 - ✓ The build has failed three times this week. — the week is not over
 
+The other side of the same rule: `lately` and `recently`, describing a stretch
+of time that runs up to now, want the present perfect, not the simple present.
+
+- ✗ The tests don't pass lately.
+- ✓ The tests haven't been passing lately.
+- ✓ The tests haven't passed lately.
+
 ### `used to` says the habit has stopped
 
 `used to` marks a past habit that is over. Using it for something still true, or
