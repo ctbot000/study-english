@@ -311,14 +311,17 @@ a setting where *someone else* acts — a game, an app, a page — use `where` o
 
 ## Prepositions
 
-### Things are `on` a screen, not `in` it
+### Things are `on` a screen or a page, not `in` it
 
 Use `on` for a surface or a device: *on the screen*, *on a phone*, *on a laptop*,
-*on a touch screen*, *on a server*. Use `in` for something enclosing: *in a
-browser*, *in an app*, *in the terminal*.
+*on a touch screen*, *on a server*. A page is a surface too: *on the settings
+page*, *on a website*, *on the dashboard*. Use `in` for something enclosing: *in a
+browser*, *in an app*, *in the terminal*, *in a dialog*.
 
 - ✗ Make it work in a touch screen.
 - ✓ Make it work on a touch screen.
+- ✗ Show the order history in the account page.
+- ✓ Show the order history on the account page.
 
 ### A device that supplies the data takes `from`, not `on`
 
