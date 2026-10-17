@@ -723,6 +723,19 @@ A plural `practices` does exist, but it is effectively a different word meaning
 *best practices*. Quantify the uncountable sense with a measure word instead —
 *two hours of practice*, *a lot of practice*.
 
+### `work` meaning effort or tasks takes no plural
+
+`work` in the sense of labour, or of the tasks someone does, is uncountable, so
+it never becomes `works`.
+
+- ✗ The new hires will do real works from their first week.
+- ✓ The new hires will do real work from their first week.
+- ✓ They finished three pieces of work. — count it with a measure word
+
+`works` exists, but as other words: things an artist or writer made (*the
+complete works of Austen*), a factory (*the gas works*), or construction (*road
+works*).
+
 ### `difficulty` is uncountable when it means "how hard"
 
 In the sense of the level of challenge something presents, `difficulty` takes no
@@ -1018,3 +1031,16 @@ takes the noun as a modifier instead.
 
 The test is whether the thing *has* that weather. An afternoon can be rainy; a
 sound cannot, because the sound is the rain.
+
+### A relative clause leaves a gap; it does not repeat the noun as a pronoun
+
+In `the X that ... `, the noun X is already the missing object or subject inside
+the clause. Putting a pronoun back in its place says it twice.
+
+- ✗ Send me a link that anyone can open it.
+- ✓ Send me a link that anyone can open.
+- ✗ This is the bug that I told you about it.
+- ✓ This is the bug that I told you about.
+
+Korean fills that slot naturally; English leaves it empty. Read the clause
+alone — *anyone can open ___* — and the gap is where the noun belongs.
