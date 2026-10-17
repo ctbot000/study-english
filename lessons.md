@@ -696,6 +696,18 @@ clause at `worth` leaves it unfinished.
 
 The adjective that can stand alone is `worthwhile`: *the trip was worthwhile*.
 
+### A possessive stands alone when its noun is understood: `the other shop's`
+
+When a phrase points back to a noun already named, meaning "X's ones", keep the
+`'s` and drop the noun. Without the `'s`, X itself becomes one of the things
+listed or compared: *including the finance team* puts the team among the late
+reports.
+
+- ✗ All the reports are late, including the finance team.
+- ✓ All the reports are late, including the finance team's.
+- ✗ Our prices are lower than the other shop.
+- ✓ Our prices are lower than the other shop's.
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
