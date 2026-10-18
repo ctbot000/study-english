@@ -599,6 +599,13 @@ miss because the phrase sounds complete on its own:
 - ✗ The door stays shut until being unlocked. — nothing names what is unlocked
 - ✓ The door stays shut until it is unlocked.
 
+Comparisons trip this most often, and they have a ready-made fix: the main
+clause's subject is the thing being compared, so the participle is the passive
+`compared to` (or `compared with`), not the active `comparing`.
+
+- ✗ The new phone feels heavy when comparing it to the old one. — the phone is not comparing
+- ✓ The new phone feels heavy compared to the old one.
+
 The short form is fine when the subjects genuinely match: *once merged, the branch
 can be deleted* works, because the branch is the thing merged.
 
