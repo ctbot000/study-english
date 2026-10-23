@@ -1051,3 +1051,33 @@ the clause. Putting a pronoun back in its place says it twice.
 
 Korean fills that slot naturally; English leaves it empty. Read the clause
 alone — *anyone can open ___* — and the gap is where the noun belongs.
+
+### `also`, `always`, `only` and `never` go after the first auxiliary
+
+With a modal or an auxiliary (`should`, `can`, `will`, `has`, `is`), a mid-sentence
+adverb like `also` sits right after it, not in front of it. With no auxiliary, it
+goes before the main verb — but after `be`.
+
+- ✗ The report also should list the errors.
+- ✓ The report should also list the errors.
+- ✗ She never has missed a meeting.
+- ✓ She has never missed a meeting.
+- ✓ The report also lists the errors. — no auxiliary: before the verb
+- ✓ The report is also late. — after `be`
+
+Putting the adverb before the auxiliary is not wrong in every case — it can stress
+the auxiliary (*it also **can** be used offline*) — but as the plain order it
+reads as off.
+
+### Name a quality's degree with its noun, not "adjective + level"
+
+How rare, how hard or how loud something is has its own noun: `rarity`,
+`difficulty`, `loudness`. An adjective followed by `level` is not English.
+
+- ✗ Each card shows the toy's rare level.
+- ✓ Each card shows the toy's rarity.
+- ✗ Pick the hard level of the quiz.
+- ✓ Pick the difficulty of the quiz. / Pick how hard the quiz is.
+
+`level` does follow a noun: *noise level*, *skill level*, *water level*. If the
+word before `level` is an adjective, swap in its noun or drop `level`.
