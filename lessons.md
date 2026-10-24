@@ -974,6 +974,17 @@ something that looks more like the real thing, say `realistic` or `lifelike`.
 - ✓ Make the trees in the game more realistic, like real trees.
 - ✓ Make the menu fancier, with gold borders and a script font. — elaborate, not true to life
 
+### `opposite` needs something to be opposite to; a thing turned round is `backwards`
+
+On its own, `opposite` leaves the reader asking "opposite of what?". To say a part
+faces or sits the wrong way round, use `backwards`, `the wrong way round` or `on
+the wrong side`.
+
+- ✗ The handle's position seems opposite.
+- ✓ The handle seems to be on the wrong side.
+- ✓ The handle is backwards.
+- ✓ The handle is on the opposite side from the hinge. — `opposite` with its reference
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
