@@ -1119,3 +1119,8 @@ When one thing becomes another kind of thing, English says `make X into Y` or
 - ✓ Let's make the recipe card into a poster. / Let's turn the recipe card into a poster.
 - ✓ Save the drawing as a PNG. — a format it takes, not a new thing it becomes
 - ✓ Use the box as a table. — a role, while it stays a box
+
+Nor does `as` give the reason or occasion for doing something. That is `for`.
+
+- ✗ The library closes early as the holiday.
+- ✓ The library closes early for the holiday.
