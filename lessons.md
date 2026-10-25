@@ -659,6 +659,13 @@ noun.
 A bare `-ing` word used as a noun is fine after `provide` — *the plan provides
 hosting* — the trouble starts only when it takes an object.
 
+A question clause (*what…*, *how much…*, *which…*) is not a thing either, so it
+cannot follow `provide`. Use a verb that takes an answer: `show`, `tell`,
+`report`, `list`.
+
+- ✗ The dashboard provides which team spent how much.
+- ✓ The dashboard shows how much each team spent.
+
 ### In `for X to do`, X is the one doing it
 
 `for` + a noun + a `to`-infinitive makes that noun the subject of the
