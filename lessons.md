@@ -531,6 +531,15 @@ use a full question instead — the two mean different things:
 - ✓ Why aren't you using a cache? — you are not, and I want to know why
 - ✓ Why didn't you use a cache? — you did not, and I want to know why
 
+### `allow` needs an object before `to`, or takes `-ing`
+
+`allow` cannot go straight to an infinitive. Either name who is allowed, or turn
+the action into a gerund. `enable` and `permit` work the same way.
+
+- ✗ The settings page allows to export the data.
+- ✓ The settings page allows users to export the data. — names who
+- ✓ The settings page allows exporting the data. — names only the action
+
 ### A passive needs a subject the verb can actually act on
 
 Turning a sentence passive moves the object into the subject slot. Put a noun
