@@ -1092,3 +1092,14 @@ How rare, how hard or how loud something is has its own noun: `rarity`,
 
 `level` does follow a noun: *noise level*, *skill level*, *water level*. If the
 word before `level` is an adjective, swap in its noun or drop `level`.
+
+### Change something into a new form with `make … into` or `turn … into`, not `make … as`
+
+When one thing becomes another kind of thing, English says `make X into Y` or
+`turn X into Y`. `as` names a role, not a result: `use X as Y`, `save X as Y`,
+`keep X as Y`.
+
+- ✗ Let's make the recipe card as a poster.
+- ✓ Let's make the recipe card into a poster. / Let's turn the recipe card into a poster.
+- ✓ Save the drawing as a PNG. — a format it takes, not a new thing it becomes
+- ✓ Use the box as a table. — a role, while it stays a box
