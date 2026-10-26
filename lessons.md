@@ -426,6 +426,17 @@ description of two things sitting together.
 `compare` takes both, with a difference in meaning: *compare X to Y* likens them,
 *compare X with Y* examines them side by side.
 
+### A verb takes the adverb, not the adjective: `similarly to`
+
+`similar to` describes a noun (*a bug similar to that one*). After a verb, the
+comparison says *how* something is done, so it needs the adverb `similarly`.
+
+- ✗ The new endpoint should be cached similar to the old one.
+- ✓ The new endpoint should be cached similarly to the old one.
+- ✓ The new endpoint should be cached the same way as the old one.
+
+The test: if the phrase answers *how?* about an action, use the `-ly` form.
+
 ### A noun keeps its own preposition
 
 Many nouns are welded to one preposition, and the rest of the sentence does not
