@@ -182,6 +182,13 @@ of time that runs up to now, want the present perfect, not the simple present.
 - ✓ The tests haven't been passing lately.
 - ✓ The tests haven't passed lately.
 
+`yet` belongs here too: it asks about something still not done as of now, so it
+wants the present perfect, and in a question it usually wants the negative.
+
+- ✗ Why is the ticket closed yet?
+- ✓ Why hasn't the ticket been closed yet?
+- ✓ Has the ticket been closed yet? — a neutral check, no complaint
+
 ### `used to` says the habit has stopped
 
 `used to` marks a past habit that is over. Using it for something still true, or
