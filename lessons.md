@@ -783,6 +783,21 @@ it never becomes `works`.
 complete works of Austen*), a factory (*the gas works*), or construction (*road
 works*).
 
+### Collective nouns such as `clothing`, `furniture` and `equipment` take no plural
+
+Some nouns name a whole category of things and are uncountable: `clothing`,
+`furniture`, `equipment`, `luggage`, `homework`, `advice`. They never take `-s`.
+To count, use a countable word for the items, or a measure word.
+
+- ✗ The shop sells new clothings every week.
+- ✓ The shop sells new clothes every week. / The shop sells new clothing every week.
+- ✗ We bought two furnitures for the hall.
+- ✓ We bought two pieces of furniture for the hall. / We bought a bench and a shelf.
+
+`clothes` is the plural-only everyday word, so it takes a plural verb
+(*the clothes are dry*). `clothing` is the uncountable category (*warm
+clothing is essential*).
+
 ### `difficulty` is uncountable when it means "how hard"
 
 In the sense of the level of challenge something presents, `difficulty` takes no
