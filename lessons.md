@@ -143,12 +143,18 @@ that person receives goes in a second slot, or in a `that`-clause.
 Korean drops an object the listener can work out; English keeps it, usually as a
 pronoun. `access`, `use`, `enter`, `install`, `update` and `support` need
 something after them. If no object fits, switch to a verb that needs none.
+The same goes for a verb ending in a preposition — `talk about`, `look at`,
+`wait for`: the preposition needs its object unless a question word (`what`,
+`who`) has moved to the front to fill that slot.
 
 - ✗ Users who access through the mobile app see the old menu.
 - ✓ Users who access it through the mobile app see the old menu.
 - ✓ Users who sign in through the mobile app see the old menu.
 - ✗ After you install, restart the editor.
 - ✓ After you install it, restart the editor.
+- ✗ Why is she worried about?
+- ✓ Why is she worried about it?
+- ✓ What is she worried about?
 
 ## Tense
 
