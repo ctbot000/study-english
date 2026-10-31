@@ -1148,3 +1148,16 @@ Nor does `as` give the reason or occasion for doing something. That is `for`.
 
 - ✗ The library closes early as the holiday.
 - ✓ The library closes early for the holiday.
+
+### A list of three or more needs `and` (or `or`) before its last item
+
+In English a list joined only by commas reads as unfinished. Put `and` (or
+`or`) before the last item. When the list gives examples, `such as` is clearer
+than `like`, which can also mean "similar to".
+
+- ✗ Bring snacks, water, a hat.
+- ✓ Bring snacks, water and a hat.
+- ✗ Add games like chess, checkers, dominoes.
+- ✓ Add games such as chess, checkers and dominoes.
+
+Two items take `and` with no comma: *apples and pears*.
