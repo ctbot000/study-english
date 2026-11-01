@@ -1040,6 +1040,16 @@ the wrong side`.
 - ✓ The handle is backwards.
 - ✓ The handle is on the opposite side from the hinge. — `opposite` with its reference
 
+### An adjective cannot stand alone as an object; give it a noun or `one`
+
+After a verb or preposition, English needs a noun phrase. An adjective such as
+`real`, `new` or `big` cannot fill that slot by itself: add the noun, use `one`
+or `ones` for a noun already mentioned, or say `the real thing`.
+
+- ✗ The photos in the brochure should show real, not drawings.
+- ✓ The photos in the brochure should show real rooms, not drawings.
+- ✓ These plastic plants look fake; buy real ones.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
