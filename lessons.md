@@ -398,6 +398,13 @@ to become *sites it blocks on the server's orders*.
 `by hand`, `by email`, `by train` look like counterexamples but are fixed
 idioms: no article, and no substituting a similar noun.
 
+How you get or earn something is a method too, so it takes `by` + `-ing`.
+`from` names a source, a thing: *points from a quiz*, but *points by solving one*.
+
+- ✗ You win a badge from finishing the course.
+- ✓ You win a badge by finishing the course.
+- ✓ You win a badge from the course.
+
 ### An occasion takes `on` or `in`, not `with`
 
 `with` names an instrument or a companion. A run, an attempt, a build, or a
@@ -539,6 +546,16 @@ usually with `on` after it, or describe every later X instead.
 - ✗ The new pricing applies from a new contract.
 - ✓ The new pricing applies from the next contract on.
 - ✓ The new pricing applies to new contracts.
+
+### `add` puts a thing `to` the place it joins, not `in` it
+
+`add` is about joining something to a whole, so the whole takes `to`: *add a
+column to the table*, *add a park to the town*. `in` is for where something
+already is, after it has been added.
+
+- ✗ Add a bench in the garden.
+- ✓ Add a bench to the garden.
+- ✓ Put a bench in the garden. — `put` places a thing, so `in` is fine
 
 ## Sentence patterns
 
