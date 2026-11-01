@@ -772,6 +772,17 @@ reports.
 - ✗ Our prices are lower than the other shop.
 - ✓ Our prices are lower than the other shop's.
 
+### `what` already contains its noun, so nothing goes in front of it
+
+`what` means "the thing that". Putting `all`, `every` or another noun before it
+says the noun twice. Use `everything (that)` or `all (that)` instead, or drop
+the extra word.
+
+- ✗ Pack all what you need for the trip.
+- ✓ Pack everything you need for the trip.
+- ✓ Pack all that you need for the trip.
+- ✓ Pack what you need for the trip.
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
