@@ -329,6 +329,18 @@ a setting where *someone else* acts — a game, an app, a page — use `where` o
 - ✓ A quiz app where players name capital cities.
 - ✓ A quiz app in which you name each country's capital.
 
+### A long chain of nouns reads better as a clause
+
+English lets a noun modify the next one, but three or four in a row before a
+gerund turn into a puzzle: the reader has to work out which noun does what to
+which. Say it as a clause instead, with a verb and a time.
+
+- ✗ Replace weekly password expiry checking with first failed login locking.
+- ✓ Instead of checking passwords for expiry every week, lock the account after the first failed login.
+
+Two nouns are fine (*a password check*); past that, unpack the chain into
+*who does what, when*.
+
 ## Prepositions
 
 ### Things are `on` a screen or a page, not `in` it
@@ -1087,6 +1099,18 @@ altogether, such as lions and tigers.
 - ✗ The farm keeps ten species of sheep.
 - ✓ The farm keeps ten breeds of sheep.
 - ✓ The reserve protects ten species of bird.
+
+### Verbs of growing already mean "more"
+
+`expand`, `extend`, `enlarge`, `increase` and `grow` already say "make
+bigger", so adding `more` says it twice. Drop `more`, or keep `more` and use
+a plain verb with the thing that grows.
+
+- ✗ We should expand the menu more.
+- ✓ We should expand the menu. / We should add more dishes to the menu.
+
+`further` is the word when one expansion follows another: *expand the menu
+further*.
 
 ## Spelling
 
