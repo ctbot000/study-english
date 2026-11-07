@@ -1078,6 +1078,16 @@ or `ones` for a noun already mentioned, or say `the real thing`.
 - ✓ The photos in the brochure should show real rooms, not drawings.
 - ✓ These plastic plants look fake; buy real ones.
 
+### Kinds of one animal are `breeds`; `species` means different animals
+
+All dogs are one species, and so are all cats and all cattle. The kinds people
+have bred within one are `breeds`. Keep `species` for animals that are different
+altogether, such as lions and tigers.
+
+- ✗ The farm keeps ten species of sheep.
+- ✓ The farm keeps ten breeds of sheep.
+- ✓ The reserve protects ten species of bird.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
