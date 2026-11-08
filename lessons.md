@@ -258,6 +258,18 @@ dogs*, *the child is three years old*. A few nouns keep their `-s` because the
 singular means something else or does not exist: *a sales team*, *a clothes
 shop*, *a news app*.
 
+### A phrase of variety goes after the noun, with `of` or `in`
+
+`various sizes`, `different colours` and `many kinds` are noun phrases, not
+adjectives, so they cannot sit in front of another noun, and `and` cannot join
+one to an adjective there. Put the phrase after the noun with `of` or `in`, or
+make the variety the head noun.
+
+- ✗ The shop sells cheaper and various sizes boxes.
+- ✓ The shop sells cheaper boxes in various sizes.
+- ✓ The shop sells cheaper boxes of various sizes.
+- ✓ The shop sells various sizes of cheaper box.
+
 ### `again` already contains "this time"
 
 `again` means the thing has happened one more time, so pairing it with `this
@@ -860,6 +872,18 @@ the most natural: *the puzzle should be more challenging*.
 
 - ✗ The last level needs more challenges.
 - ✓ The last level should be more challenging.
+
+### `lightning` and `thunder` take no plural; count `bolts` and `claps`
+
+`lightning` is the light and `thunder` the sound, as a mass, so neither takes
+`-s`. To count them, count the bolts or flashes and the claps or rolls.
+
+- ✗ Three lightnings hit the hill, and the thunders shook the windows.
+- ✓ Three bolts of lightning hit the hill, and the thunder shook the windows.
+- ✓ Lightning lit up the sky. — the mass needs no count
+
+`lightning bolt` works too, with the noun singular in front (*two lightning
+bolts*).
 
 ### `one` stands in for a singular noun; a plural takes `ones`
 
