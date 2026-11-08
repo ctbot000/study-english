@@ -1136,6 +1136,19 @@ a plain verb with the thing that grows.
 `further` is the word when one expansion follows another: *expand the menu
 further*.
 
+### A `quiz` is the whole test; one item in it is a `question`
+
+In English a `quiz` is a short test made up of questions, so a single item to
+answer is a `question` (or a `quiz question`). Calling each item a quiz turns
+one test into many.
+
+- ✗ Each quiz in the workbook is worth a point, and a page has twenty quizzes.
+- ✓ Each question in the workbook is worth a point, and a page has twenty
+  questions.
+- ✓ Friday's quiz has twenty questions.
+
+A single brain-teaser asked for fun is a `riddle` or a `puzzle`, not a quiz.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
