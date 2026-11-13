@@ -1194,6 +1194,17 @@ the word, as in *the robot in the film is an android*.
 
 ## Punctuation
 
+### A comma closes a long opening phrase or `if` clause
+
+When a sentence opens with a phrase or an `if`/`when` clause before its
+subject, put a comma where that opening ends. Without it, the reader cannot
+tell where the condition stops and the main statement starts.
+
+- ✗ Without a map if we took the north trail we would get lost.
+- ✓ Without a map, if we took the north trail, we would get lost.
+
+A short opener that cannot be misread may drop the comma: *In June we moved.*
+
 ### No comma before `and` when it joins two verbs of the same subject
 
 When `and` links two actions done by one subject — a compound predicate — no
