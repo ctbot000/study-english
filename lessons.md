@@ -807,6 +807,17 @@ the extra word.
 - ✓ Pack all that you need for the trip.
 - ✓ Pack what you need for the trip.
 
+### A real yes/no question puts the auxiliary first
+
+Statement word order with a question mark (`you can come?`) is how speech
+checks something already assumed or shows surprise. A genuine question in
+writing inverts the subject and the auxiliary. After a hypothetical `if`
+clause, the auxiliary becomes `could` or `would`.
+
+- ✗ If I lend you the ladder, you can fix the gutter?
+- ✓ If I lend you the ladder, could you fix the gutter?
+- ✓ You can fix the gutter? — surprise: "really, you can?"
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
