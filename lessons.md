@@ -535,6 +535,15 @@ the booking is *for* — the same `for` as in *a table for two*.
 `with` stays correct when accompaniment really is the point: *I travelled with
 four friends* says who came, not how many beds were reserved.
 
+### Source material is what you work `from` or `based on`, not `with`
+
+`write it with X` makes X a tool you write with, such as a pen or an app. When X
+supplies the content, say `based on X`, `from X` or `using X`.
+
+- ✗ Write a summary with these notes.
+- ✓ Write a summary based on these notes. / Write a summary from these notes.
+- ✓ Write the summary with a pencil. — a tool, so `with` is right
+
 ### A date range takes one marker, not two
 
 `from … to`, `through`, and `between … and` each mark a span on their own.
