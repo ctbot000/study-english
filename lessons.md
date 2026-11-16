@@ -827,6 +827,16 @@ clause, the auxiliary becomes `could` or `would`.
 - ✓ If I lend you the ladder, could you fix the gutter?
 - ✓ You can fix the gutter? — surprise: "really, you can?"
 
+### A yes/no question inside a sentence takes `whether` or `if`, not `what`
+
+`what` asks for a thing. When the embedded question can be answered yes or
+no, introduce it with `whether` or `if`. To ask how much something resembles
+another, say `how much it looks like`.
+
+- ✗ Tell me what this mushroom is like poisonous.
+- ✓ Tell me whether this mushroom looks poisonous.
+- ✓ Tell me how much this mushroom looks like a poisonous one.
+
 ## Countable and uncountable nouns
 
 ### `practice` takes no plural in the "training" sense
