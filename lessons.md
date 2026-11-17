@@ -470,6 +470,20 @@ description of two things sitting together.
 `compare` takes both, with a difference in meaning: *compare X to Y* likens them,
 *compare X with Y* examines them side by side.
 
+### What you compare with needs `like`, `as` or `unlike` in front of it
+
+A noun that something resembles, or differs from, cannot simply follow the
+description: without a comparison word the sentence reads as if the noun were
+being described too. Put `like` (or `unlike`, or `as … are`) before it.
+
+- ✗ The new bridge should be steel, not wooden the old ones.
+- ✓ The new bridge should be steel, not wooden like the old ones.
+- ✓ Unlike the old ones, the new bridge should be steel, not wood.
+
+When the description itself ends in `-like`, rephrase rather than writing
+`-like like`: *not boxy as the earlier models were*, or *unlike the boxy earlier
+models*.
+
 ### A verb takes the adverb, not the adjective: `similarly to`
 
 `similar to` describes a noun (*a bug similar to that one*). After a verb, the
