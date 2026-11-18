@@ -558,6 +558,20 @@ supplies the content, say `based on X`, `from X` or `using X`.
 - ✓ Write a summary based on these notes. / Write a summary from these notes.
 - ✓ Write the summary with a pencil. — a tool, so `with` is right
 
+A text you search through is not a tool either: what you find is `in` it.
+
+- ✗ Find the typos with this paragraph.
+- ✓ Find the typos in this paragraph.
+
+### `all` as an object needs a noun or pronoun: `it all`, `everything`
+
+After a verb, a bare `all` sounds cut off. Say `it all`, `them all`,
+`everything` or `all of it`.
+
+- ✗ Don't eat all.
+- ✓ Don't eat it all. / Don't eat everything.
+- ✓ All of it is gone. — fine as a subject with `of it`
+
 ### A date range takes one marker, not two
 
 `from … to`, `through`, and `between … and` each mark a span on their own.
