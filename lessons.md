@@ -1236,6 +1236,19 @@ The family: rhythm, rhyme, rhetoric, rhapsody, rheumatism, rhinoceros, and the
 `-thm` ending in algorithm and logarithm. Note also that `rhythm` has no vowel
 between the `th` and the `m`, which is what makes it easy to mistype.
 
+### An adjective ending in consonant + `-le` makes its adverb by turning `-le` into `-ly`
+
+Most adjectives just take `-ly` on the end, but one that ends in a consonant
+and `-le` drops the `-e` and shares the `l`: the `-le` becomes `-ly`. Adding
+`-ly` to the whole word gives a spelling no dictionary has.
+
+- ✗ The recipe was simplely too long to follow.
+- ✓ The recipe was simply too long to follow.
+
+The same goes for gentle → gently, possible → possibly, terrible → terribly,
+humble → humbly and able → ably. A vowel before the `-le` keeps the ordinary
+rule: sole → solely, vile → vilely (with whole → wholly the odd one out).
+
 ### Product and platform names keep their capitals in prose
 
 Korean has no capital letters, so the capital on a name is the easiest thing to
