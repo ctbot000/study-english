@@ -367,6 +367,20 @@ browser*, *in an app*, *in the terminal*, *in a dialog*.
 - ✗ Show the order history in the account page.
 - ✓ Show the order history on the account page.
 
+### An island is somewhere you are `on`, not `in`
+
+An island is ground you stand on, so it takes `on`, as a beach, a farm or a
+ship does: *on the island*, *on a small island*, *on the beach*. Use `in` for an
+area you are enclosed by: *in the forest*, *in the town*, *in the park*.
+
+- ✗ The kids built a treehouse in the island.
+- ✓ The kids built a treehouse on the island.
+- ✗ Nothing grows in that rocky island.
+- ✓ Nothing grows on that rocky island.
+
+An island that is also a country takes `in`, as any country does: *in Japan*,
+*in Iceland*.
+
 ### A device that supplies the data takes `from`, not `on`
 
 `on` puts something onto a device's surface or display. When the device is where
