@@ -42,6 +42,14 @@ of several and it does not matter which.
 Plurals and uncountable nouns are the exception: *Send me the reports* or
 *Send me reports* are both fine.
 
+A noun followed by its number is another exception. The number makes it a name,
+and a name takes no article. An ordinal in front works the other way round and
+does take `the`.
+
+- ✗ The bus leaves from the gate 3.
+- ✓ The bus leaves from gate 3. / The bus leaves from the third gate.
+- ✓ The answer is on page 12, in chapter 2.
+
 ### Some names still take `the`
 
 Most proper nouns take no article — `Korea`, `Slack`, `Kubernetes`. The exception
