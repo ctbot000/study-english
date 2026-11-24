@@ -1389,3 +1389,12 @@ than `like`, which can also mean "similar to".
 - ✓ Add games such as chess, checkers and dominoes.
 
 Two items take `and` with no comma: *apples and pears*.
+
+### What limits you is `restrictive`; what is limited is `restricted`
+
+`-ive` describes the thing doing the limiting, `-ed` the thing being limited. A
+rule, a style or a budget that leaves too little room is *restrictive*.
+
+- ✗ The dress code is too restricted.
+- ✓ The dress code is too restrictive.
+- ✓ Parking here is restricted. *(it is limited by a rule)*
