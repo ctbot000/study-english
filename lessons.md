@@ -83,6 +83,12 @@ A bare plural is the other generic form and is often the most natural of the
 three: *human ears turn vibration into sound*. Keep `a` for when you really do
 mean any single instance — *if a rib breaks, it usually heals on its own*.
 
+Parts that come as a set on one body keep `the` in the plural too, and in a list
+one `the` in front is enough for every item.
+
+- ✗ Smoke irritates eyes, nose and throat.
+- ✓ Smoke irritates the eyes, nose and throat.
+
 ### A stage of the software process takes no article: `in CI`, `in production`
 
 `CI`, `production`, `staging`, `review` and `development` used as the place
