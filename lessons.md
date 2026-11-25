@@ -995,6 +995,23 @@ needs a singular countable noun after it. For several more things, drop the
 The exception is a number between them, which makes the group one bundle:
 *another two chairs*, *another three days*.
 
+### A plural noun is `they` in the next sentence, not `it`
+
+A pronoun keeps its noun's number, even when the idea behind it is one kind of
+thing. To speak of the members one at a time, say `each`.
+
+- ✗ Order three shelves. It can be fixed to the wall.
+- ✓ Order three shelves. They can be fixed to the wall.
+- ✓ Order three shelves. Each can hold ten books. — one at a time
+
+### `each` gives one apiece; `one … one` speaks of a single case
+
+When every member of a group has its own, the sentence needs `each` or `every`.
+`One` as the subject reads as just one of them.
+
+- ✗ One chapter ends with one test, so read all of them.
+- ✓ Each chapter ends with a test, so read all of them.
+
 ## Word choice
 
 ### An `-ally` adverb says "with respect to X", not "in an X way"
