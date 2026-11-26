@@ -1421,3 +1421,15 @@ rule, a style or a budget that leaves too little room is *restrictive*.
 - ✗ The dress code is too restricted.
 - ✓ The dress code is too restrictive.
 - ✓ Parking here is restricted. *(it is limited by a rule)*
+
+### After a clause with two people or things in it, name the one that acts
+
+An `it` (or `they`) that comes after a clause naming two nouns makes the reader
+guess which one it means, and a sentence that then names the doer again in a
+relative clause says the same thing twice. Make the thing that does the action
+the subject, and let its verb say what it does.
+
+- ✗ When a guest breaks a glass, it should give a warning that the bartender shouts.
+- ✓ When a guest breaks a glass, the bartender should shout a warning.
+- ✗ When the dog finds the ball, it should get a treat that the owner gives.
+- ✓ When the dog finds the ball, the owner should give it a treat.
