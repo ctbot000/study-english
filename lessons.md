@@ -1252,6 +1252,18 @@ one test into many.
 
 A single brain-teaser asked for fun is a `riddle` or a `puzzle`, not a quiz.
 
+### Spoken sound in a film or game is `voices`, not `speaking`
+
+`speaking` names the act or the skill of talking: *public speaking*, *speaking
+practice*. The talk a film, game or video contains is a thing it has, and takes
+a noun for that: `voices`, `voice-over` for a narrator, `voice acting`,
+`dialogue`. To say the characters should talk aloud, use the verb.
+
+- ✗ The puppet show would be better with real speaking.
+- ✓ The puppet show would be better with real voices.
+- ✓ The puppets should actually speak.
+- ✓ The slides need a voice-over.
+
 ## Spelling
 
 ### Greek `rh` and `th` survive in English where Romance spellings drop them
