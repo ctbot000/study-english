@@ -1252,17 +1252,24 @@ one test into many.
 
 A single brain-teaser asked for fun is a `riddle` or a `puzzle`, not a quiz.
 
-### Spoken sound in a film or game is `voices`, not `speaking`
+### Spoken sound is `voices`, or said `out loud`: not `speaking`, not `with a speaker`
 
 `speaking` names the act or the skill of talking: *public speaking*, *speaking
 practice*. The talk a film, game or video contains is a thing it has, and takes
 a noun for that: `voices`, `voice-over` for a narrator, `voice acting`,
 `dialogue`. To say the characters should talk aloud, use the verb.
 
+That something is heard rather than read is `out loud` or `aloud`. A speaker is
+the device the sound comes `through` (or the person talking), so `say something
+with a speaker` says neither.
+
 - ✗ The puppet show would be better with real speaking.
 - ✓ The puppet show would be better with real voices.
 - ✓ The puppets should actually speak.
 - ✓ The slides need a voice-over.
+- ✗ The robot should say the answer with a speaker.
+- ✓ The robot should say the answer out loud.
+- ✓ The answer should play through the speakers.
 
 ## Spelling
 
