@@ -237,6 +237,20 @@ Keep the progressive when the point really is "right now", and the contrast
 survives: *the badge shows unread messages, but it is showing an old count at
 the moment.*
 
+### A past expectation looks forward with `would`, or with `expect X to`
+
+After a past `expected` or `hoped`, the `that` clause looks forward from a
+moment that is already over, so its verb takes `would`. A bare present tense
+there reads as a general fact rather than as what was expected. With `expect`,
+the shorter and more natural form is an object plus a `to`-infinitive.
+
+- ✗ We expected that the new oven bakes faster.
+- ✓ We expected that the new oven would bake faster.
+- ✓ We expected the new oven to bake faster.
+
+`hope` has no object-plus-infinitive form, so it keeps the clause: *we hoped
+(that) the rain would stop*, not *we hoped the rain to stop*.
+
 ## Word order and modifiers
 
 ### A superlative goes in front of the whole noun phrase
