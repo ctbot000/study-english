@@ -1316,6 +1316,17 @@ Lowercase is right in two places: identifiers such as a folder named `android/`
 or a package name, which follow their own rules; and a common noun that shares
 the word, as in *the robot in the film is an android*.
 
+### `file` makes `filing`, with one `l`; `filling` comes from `fill`
+
+To hand in something official is to *file* it: a report, a claim, a complaint,
+a bug, a patent. A verb ending in a silent `-e` drops it before `-ing` and
+doubles nothing, so *file* becomes *filing*. *Filling*, with two, is the
+`-ing` form of *fill*, to make full; a form is *filled in* or *filled out*.
+
+- ✗ She is filling a complaint with the airline.
+- ✓ She is filing a complaint with the airline.
+- ✓ She is filling in the claim form. *(fill: to complete it)*
+
 ## Punctuation
 
 ### A comma closes a long opening phrase or `if` clause
